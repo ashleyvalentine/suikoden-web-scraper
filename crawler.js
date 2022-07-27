@@ -1,5 +1,6 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
+const fs = require('fs')
 
 const getCharacterNames = async () => {
 	try {
@@ -7,18 +8,12 @@ const getCharacterNames = async () => {
 			'https://suikoden.fandom.com/wiki/Recruitment_(Suikoden)'
 		);
 		const $ = cheerio.load(data);
-		const characterNames = [];
-        const recruitmentInfo = [];
+		let characterNames = [];
 
 		$('td > b > a').each((_idx, el) => {
 			const characterName = $(el).text()
-			characterNames.push(characterName)
+			characterNames.push({ "name": characterName })
 		});
-
-        $('tr > td:last-child').each((_idx, el) => {
-            const recruitCharacter = $(el).text()
-            recruitmentInfo.push(recruitCharacter)
-        });
 
 		return characterNames;
 	} catch (error) {
@@ -27,7 +22,17 @@ const getCharacterNames = async () => {
 };
 
 getCharacterNames()
-.then((characterNames) => console.log(characterNames));
+	.then((characterNames) => {
+		//you were here--trying to figure out how to get multiple scraped data into one object
+		fs.writeFile("/Users/ashleyvalentine/Documents/code/suikoden_web_crawler/characters.json", JSON.stringify(characterNames), (err) => {
+			if (err)
+			  console.log(err)
+			else {
+			  console.log("File written successfully\n");
+			}
+		  })
+		}
+	);
 
 
 const getRecruitmentInfo = async () => {
@@ -49,8 +54,11 @@ const getRecruitmentInfo = async () => {
 	}
 };
 
-getRecruitmentInfo()
-.then((recruitmentInfo) => console.log(recruitmentInfo));
+const recruitmentInfo = getRecruitmentInfo()
+
+console.log(recruitmentInfo)
+
+
 
 //original code from https://www.scrapingbee.com/blog/web-scraping-javascript/#outcomes
 // const axios = require('axios');
