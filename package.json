@@ -1,0 +1,23 @@
+{
+  "name": "suikoden-api",
+  "version": "1.0.0",
+  "description": "Built a web crawler to scrape character data for a video game from a wiki. Plan to use to create a checklist app in order to track character recruitment in game.",
+  "main": "crawler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fakehouseplant/suikoden-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fakehouseplant/suikoden-api/issues"
+  },
+  "homepage": "https://github.com/fakehouseplant/suikoden-api#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}

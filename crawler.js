@@ -1,64 +1,53 @@
-const axios = require('axios');
-const cheerio = require('cheerio');
+const axios = require('axios')
+const cheerio = require('cheerio')
 const fs = require('fs')
 
-const getCharacterNames = async () => {
-	try {
-		const { data } = await axios.get(
-			'https://suikoden.fandom.com/wiki/Recruitment_(Suikoden)'
-		);
-		const $ = cheerio.load(data);
-		let characterNames = [];
+const getCharacterInfo = async () => {
+  try {
+    const { data } = await axios.get(
+      'https://suikoden.fandom.com/wiki/Recruitment_(Suikoden)'
+    )
+    const $ = cheerio.load(data)
+    const characterInfo = []
+    let recruitmentInfo = []
 
-		$('td > b > a').each((_idx, el) => {
-			const characterName = $(el).text()
-			characterNames.push({ "name": characterName })
-		});
+    $('tr > td:last-child').each((_idx, el) => {
+      const recruitCharacter = $(el).text()
+      recruitmentInfo.push(recruitCharacter)
+    })
 
-		return characterNames;
-	} catch (error) {
-		throw error;
-	}
-};
+    $('td > b > a').each((_idx, el) => {
+      const characterName = $(el).text()
+      characterInfo.push({ name: characterName })
+    })
 
-getCharacterNames()
-	.then((characterNames) => {
-		//you were here--trying to figure out how to get multiple scraped data into one object
-		fs.writeFile("/Users/ashleyvalentine/Documents/code/suikoden_web_crawler/characters.json", JSON.stringify(characterNames), (err) => {
-			if (err)
-			  console.log(err)
-			else {
-			  console.log("File written successfully\n");
-			}
-		  })
-		}
-	);
+    recruitmentInfo = recruitmentInfo.map((string) =>
+      string.replace(/(\r\n|\n|\r)/gm, '')
+    )
+    //regex to remove line breaks: https://stackoverflow.com/questions/10805125/how-to-remove-all-line-breaks-from-a-string
 
+    for (let i = 0; i < characterInfo.length; i++) {
+      characterInfo[i].recruitment = recruitmentInfo[i]
+    }
 
-const getRecruitmentInfo = async () => {
-	try {
-		const { data } = await axios.get(
-			'https://suikoden.fandom.com/wiki/Recruitment_(Suikoden)'
-		);
-		const $ = cheerio.load(data);
-        const recruitmentInfo = [];
+    return characterInfo
+  } catch (error) {
+    throw error
+  }
+}
 
-        $('tr > td:last-child').each((_idx, el) => {
-            const recruitCharacter = $(el).text()
-            recruitmentInfo.push(recruitCharacter)
-        });
-
-		return recruitmentInfo.map(string => string.slice(0, -1));
-	} catch (error) {
-		throw error;
-	}
-};
-
-const recruitmentInfo = getRecruitmentInfo()
-
-console.log(recruitmentInfo)
-
-
+getCharacterInfo().then((characterInfo) => {
+  fs.writeFile(
+    '/Users/ashleyvalentine/Documents/code/suikoden-api/characters.json',
+    JSON.stringify(characterInfo),
+    (err) => {
+      if (err) console.log(err)
+      else {
+        console.log('File written successfully\n')
+      }
+    }
+  )
+})
 
 //original code from https://www.scrapingbee.com/blog/web-scraping-javascript/#outcomes
 // const axios = require('axios');
