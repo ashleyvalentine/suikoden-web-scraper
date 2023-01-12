@@ -1,1 +1,416 @@
-[{"name":"Tir","recruitment":"Joins your party at the very beginning of the game."},{"name":"Cleo","recruitment":"Automatically joins at the beginning of the game."},{"name":"Gremio","recruitment":"Automatically joins at the beginning of the game."},{"name":"Viktor","recruitment":"Automatically joins after leaving Gregminster."},{"name":"Mathiu","recruitment":"Joins automatically after Tir agrees to become leader of the Liberation Army."},{"name":"Camille","recruitment":"Joins automatically after talking to her in Kaku."},{"name":"Tai Ho","recruitment":"Joins Tir in Kaku after beating him at Chinchirorin before going to explore Toran Castle."},{"name":"Yam Koo","recruitment":"Joins along with Tai Ho."},{"name":"Luc","recruitment":"Joins automatically at Toran Castle."},{"name":"Chandler","recruitment":"Talk to him at Kwaba Fortress after you acquire your castle."},{"name":"Kai","recruitment":"After having set the HQ, Joins when spoken to at the Garan Fortress."},{"name":"Lorelai","recruitment":"After having set the HQ, Lorelai joins Tir in Kouan if he's over level 25 when he talks to her."},{"name":"Maas","recruitment":"Joins when spoken to in the Great Forest Kobold Village."},{"name":"Marie","recruitment":"Joins when spoken to at the inn in Seika after securing Toran Castle."},{"name":"Onil","recruitment":"Joins when spoken to in Seika after exploring Toran Castle."},{"name":"Sansuke","recruitment":"Joins when spoken to in Great Forest Village after exploring Toran Castle."},{"name":"Sergei","recruitment":"Joins when spoken to in Kaku after exploring Toran Castle."},{"name":"Antonio","recruitment":"He joins when Tir speaks to him at the Inn in Seika, after Marie has been recruited and mentions she needs help. You need to sleep or just choose \"don't stay\" a couple of times at your HQ until Marie triggers the dialog that she needs help, then go back see Antonio."},{"name":"Rock","recruitment":"Rock joins when spoken to in Kouan in Lepant's mansion."},{"name":"Juppo","recruitment":"Joins automatically, after talking to him in Lepant's mansion. Note: If you didn't recruited him while sneaking in Lepant's Mansion, he will automatically be available at the HQ after Lepant joined."},{"name":"Meg","recruitment":"After recruiting Juppo, put him in the party to Kaku and talk to her, she will join."},{"name":"Lepant","recruitment":"Joins automatically after saving Eileen."},{"name":"Eileen","recruitment":"Joins with Lepant."},{"name":"Giovanni","recruitment":"Joins with Lepant."},{"name":"Krin","recruitment":"Joins automatically during the events in Kouan."},{"name":"Pahn","recruitment":"Pahn joins when spoken to after the events in Kouan. At a later point in the game, Pahn must duel Teo McDohl. If Pahn is defeated in the duel, then he will be technically killed in the story. The player must keep his weapon properly sharpened and have Pahn higher than level 30 with good equipment in order to increase the possibility of winning the duel."},{"name":"Gaspar","recruitment":"Joins if Tir wins 5000 potch off of him in Chinchirorin."},{"name":"Varkas","recruitment":"Joins automatically with Sydonia in Toran Castle after the events in Kouan."},{"name":"Sydonia","recruitment":"Joins automatically with Varkas in Toran Castle after events in Kouan."},{"name":"Kirkis","recruitment":"Joins automatically after events in Pannu Yakuta."},{"name":"Sheena","recruitment":"Joins when spoken to with Lepant in the party at the Inn in Seika."},{"name":"Viki","recruitment":"She will appear in the Forest trail, in Great Forest Village, ask her to join."},{"name":"Meese","recruitment":"Speak to him in the Village of the Dwarves after recruiting Maas and he will join."},{"name":"Valeria","recruitment":"Joins automatically after the events in Pannu Yakuta."},{"name":"Templeton","recruitment":"Joins when spoken to at the burned Village of the Elves."},{"name":"Kuromimi","recruitment":"Joins automatically after the events at Pannu Yakuta."},{"name":"Humphrey","recruitment":"Joins automatically after the original remaining members from the Liberation Army meet up at the new Headquarters."},{"name":"Kwanda","recruitment":"After defeating Kwanda in a duel in Pannu Yakuta, choose the following choices: \"Something's wrong.\" and \"I want you to join us.\""},{"name":"Sylvina","recruitment":"Joins automatically after events at Pannu Yakuta."},{"name":"Stallion","recruitment":"Joins automatically after events at Pannu Yakuta."},{"name":"Fu Su Lu","recruitment":"Joins if Tir agrees to pay his 10,000 bit food bill at the Inn in the Great Forest Kobold Village."},{"name":"Gon","recruitment":"Bring Kuromimi to visit him in the Great Forest Kobold Village and speak to him to recruit him."},{"name":"Rubi","recruitment":"Bring Kirkis to speak to Rubi at the Great Forest Kobold Village when Kirkis is Lv. 35 or higher and speak to Rubi to recruit him."},{"name":"Apple","recruitment":"Speak to her in Seika and she'll join to find out Mathiu's reason for joining."},{"name":"Flik","recruitment":"Joins automatically in Kaku when Viktor and Tir speak to him after events in Pannu Yakuta occur."},{"name":"Chapman","recruitment":"Joins when talked to at the Antei Armor store."},{"name":"Eikei","recruitment":"Speak to him in Teien when Tir is Lv. 40 or higher."},{"name":"Hellion","recruitment":"Joins when spoken to at the Inn in Teien, as long as the castle is level 2 or higher."},{"name":"Jabba","recruitment":"Fight Holly Fairies until one drops a Nameless Urn, then speak to Jabba in Rikon with the urn in your inventory to get Jabba to join."},{"name":"Jeane","recruitment":"Speak to her in the Rune Shop at Antei. Allow her to join you. Your Castle must be at least Lv. 3."},{"name":"Lotte","recruitment":"She is at the inn, inside of Rikon, speak to her. Eventually she will tell you, her cat is missing, if you find her cat, she will join. The cat is in Kaku, you may need the Holy Rune to help catch her. Run after the cat \"Mina\", and when next to her,press the action button."},{"name":"Mina","recruitment":"Buy Toe Shoes and equip them to Tir, talk to Mina and she will dance with you, and join you."},{"name":"Anji","recruitment":"After the castle is level 3 or higher, take Tai Ho and Yam Koo in a party to the Pirate's Hideout. Defeat the 3 pirates within 5 rounds to recruit them."},{"name":"Kanak","recruitment":"Joins alongside Anji and Leonardo when defeated at their hideout. Take Tai Ho and Yam Koo to the Pirate's Hideout once the castle is Level 3 or higher."},{"name":"Leonardo","recruitment":"After the castle reaches level 3, take Tai Ho and Yam Koo to the Pirate's Hideout, and upon defeating Anji, Leonardo, and Kanak, they will join."},{"name":"Kamandol","recruitment":"Joins automatically alongside Gen during the events to pass the Dunan Rapids."},{"name":"Gen","recruitment":"Gen will automatically join when spoken to in a house in Teien when Tir and party need a way to pass the Dunan Rapids."},{"name":"Tesla","recruitment":"Joins automatically when spoken to in Antei after Mathiu assigns Tir to recruit him and Kimberley."},{"name":"Kimberley","recruitment":"Joins when spoken to at her home in Antei, after Mathiu instructs Tir to recruit her and Tesla."},{"name":"Esmeralda","recruitment":"Acquire an Opal from the enemies in Soniere Prison, and give one to Esmeralda, she will then join."},{"name":"Liukan","recruitment":"Joins automatically when spoken to in Soniere Prison."},{"name":"Milich","recruitment":"After defeating him, say that he is not at fault for killing Gremio and ask him to join.Note: Do not agree with Pahn, Cleo, and Viktor about avenging Gremio."},{"name":"Ivanov","recruitment":"Speak with him at Scarleticia Castle after defeating Milich Oppenheimer."},{"name":"Kasios","recruitment":"Speak to him in Scarleticia Castle with Milich Oppenheimer in your party."},{"name":"Qlon","recruitment":"Qlon joins if you speak to him in Antei after liberating it from Milich Oppenheimer."},{"name":"Kasumi","recruitment":"Joins automatically before the first battle with Teo McDohl's army."},{"name":"Georges","recruitment":"Talk to him at the inn in Kirov and beat the record in any card game level he offers."},{"name":"Lester","recruitment":"In Kirov, enter the houses to the left and right of Sarah and taste the stew on the stove. Then enter the house south of Sarah and talk to him. He will not appear unless Toran Castle is at least Level 3."},{"name":"Sarah","recruitment":"Recruting Sarah requires a series of trades with the denizens of Kirov. When Sarah asks for soap, Tir can talk to various villagers to find out what they'll want to trade for. To complete the quest, buy Sugar at the item store. Trade it to the man at the Inn for a yardstick. Trade the yardstick to the villager near Sarah for Salt. Trade the Salt for Soy Sauce with the villager at the Item Shop. Then trade the Soy Sauce to the villager near the Armor Shop for some Soap. Speak to Sarah with soap in hand and she'll join."},{"name":"Blackman","recruitment":"Speak to him at Kalekka without stepping on his plants.Note: If you step on his plants before speaking to him, simply exit the village and return."},{"name":"Ledon","recruitment":"Speak to him at the Secret Factory."},{"name":"Kessler","recruitment":"Speak to him at the Secret Factory."},{"name":"Kage","recruitment":"Speak to him at the Secret Factory and pay his 20,000 bit service fee."},{"name":"Melodye","recruitment":"Speak to her at Kirov with the Sound Rune in your inventory"},{"name":"Kun To","recruitment":"Joins automatically after lending boats to carry the Fire Spears."},{"name":"Mose","recruitment":"Joins automatically before delivering the Fire Spears."},{"name":"Ronnie Bell","recruitment":"Joins automatically before delivering the Fire Spears."},{"name":"Alen","recruitment":"Joins automatically with Grenseal after defeating General Teo."},{"name":"Grenseal","recruitment":"Joins automatically with Alen after defeating General Teo."},{"name":"Kirke","recruitment":"Joins when spoken to at the Lorimar checkpoint after the events there make the area available."},{"name":"Marco","recruitment":"Play his game and win 5,000 Bits from him in the Warrior's Village."},{"name":"Moose","recruitment":"Speak to him in the weapon shop at the Warrior's Village with Maas, Meese, and Mose in your active party."},{"name":"Morgan","recruitment":"Speak to him at Qlon Temple if your Castle is at least Level 3 and allow him to join the army, otherwise he will say he needs more training."},{"name":"Zen","recruitment":"Joins upon request at Qlon Temple if you bring him Blue, Red, and Yellow Flower Seeds."},{"name":"Quincy","recruitment":"Speak to him at the Garan Fortress with at least 80 recruits (dead and \"away\" characters do not count)."},{"name":"Fukien","recruitment":"Joins automatically after you enter Qlon Temple."},{"name":"Hugo","recruitment":"Speak to him at the Qlon Temple with the War Scroll in your inventory. He will not accept it unless your Castle is at least Level 3."},{"name":"Window","recruitment":"Bring him the Window crystal, that is found in the Cave of Past, in Qlon Temple."},{"name":"Tengaar","recruitment":"Automatically joins after rescuing her from Neclord's Castle."},{"name":"Hix","recruitment":"Joins automatically before entering Neclord's Castle."},{"name":"Fuma","recruitment":"Speak to him at the Dragon Knights' Fortress and allow him to join the party. Note: He is at the upper-right of the first screen of the fortress, and he will not appear unless your Castle is at least Level 3."},{"name":"Crowley","recruitment":"Prerequisites: Level 4 HeadquartersTo recruit Crowley, speak to him in a secret passage in the Cave of the Past. To get to the secret passage, once inside the cave take the north exit and head down the stairs. Head all the way to the right, and then south to a new screen. Start heading right and go south. Head up the stairs and you will be in the previous screen. Take the stairs down and head south to the next screen, and then head south once more. The hidden passage is against the southern wall."},{"name":"Pesmerga","recruitment":"Prerequisites: Level 4 HeadquartersIn order to recruit Pesmerga, speak with him on the top floor of Neclord's Castle."},{"name":"Clive","recruitment":"Joins when spoken to when he appears at the Inn in Rikon. He appears there at random starting after events in Lorimar."},{"name":"Leon","recruitment":"Speak to him in the house at Kalekka after attaining a Level 4 HQ. He will mention how impressive the Liberation Army has become. Speak to Mathiu at HQ and receive a letter. Deliver the letter to Leon and he will join."},{"name":"Kreutz","recruitment":"Speak to him at the Dragon's Den with Humphrey in the active party."},{"name":"Joshua","recruitment":"Joins automatically after returning from Seek Valley."},{"name":"Milia","recruitment":"Joins automatically before heading to Seek Valley."},{"name":"Futch","recruitment":"Joins automatically after returning from Seek Valley."},{"name":"Taggart","recruitment":"Joins automatically after informing him of Warren's capture."},{"name":"Mace","recruitment":"Speak to him at Seek Valley with Maas, Meese, Moose and Mose in your active party. A Level 4 Headquarters is required before recruiting him."},{"name":"Griffith","recruitment":"Is recruited automatically after defeating him at the Northern Checkpoint, regardless of the player's choice."},{"name":"Warren","recruitment":"Joins automatically after the events at Moravia Castle."},{"name":"Kasim","recruitment":"Joins automatically after the events at Moravia Castle."},{"name":"Vincent","recruitment":"After rescuing Warren and Viktor, go back to Kasim's prison and talk to Vincent."},{"name":"Maximillian","recruitment":"Joins upon request at the Northern Checkpoint after rescuing Warren and Viktor."},{"name":"Sancho","recruitment":"Joins with Maximillian at the Northern Checkpoint after rescuing Warren and Viktor."},{"name":"Sonya Schulen","recruitment":"After the mission at Shasarazade, speak to her in the dungeon at HQ. Request her assistance."}]
+[
+  {
+    "name": "Tir",
+    "recruitment": "Joins your party at the very beginning of the game."
+  },
+  {
+    "name": "Cleo",
+    "recruitment": "Automatically joins at the beginning of the game."
+  },
+  {
+    "name": "Gremio",
+    "recruitment": "Automatically joins at the beginning of the game."
+  },
+  {
+    "name": "Viktor",
+    "recruitment": "Automatically joins after leaving Gregminster."
+  },
+  {
+    "name": "Mathiu",
+    "recruitment": "Joins automatically after Tir agrees to become leader of the Liberation Army."
+  },
+  {
+    "name": "Camille",
+    "recruitment": "Joins automatically after talking to her in Kaku."
+  },
+  {
+    "name": "Tai Ho",
+    "recruitment": "Joins Tir in Kaku after beating him at Chinchirorin before going to explore Toran Castle."
+  },
+  { "name": "Yam Koo", "recruitment": "Joins along with Tai Ho." },
+  { "name": "Luc", "recruitment": "Joins automatically at Toran Castle." },
+  {
+    "name": "Chandler",
+    "recruitment": "Talk to him at Kwaba Fortress after you acquire your castle."
+  },
+  {
+    "name": "Kai",
+    "recruitment": "After having set the HQ, Joins when spoken to at the Garan Fortress."
+  },
+  {
+    "name": "Lorelai",
+    "recruitment": "After having set the HQ, Lorelai joins Tir in Kouan if he's over level 25 when he talks to her."
+  },
+  {
+    "name": "Maas",
+    "recruitment": "Joins when spoken to in the Great Forest Kobold Village."
+  },
+  {
+    "name": "Marie",
+    "recruitment": "Joins when spoken to at the inn in Seika after securing Toran Castle."
+  },
+  {
+    "name": "Onil",
+    "recruitment": "Joins when spoken to in Seika after exploring Toran Castle."
+  },
+  {
+    "name": "Sansuke",
+    "recruitment": "Joins when spoken to in Great Forest Village after exploring Toran Castle."
+  },
+  {
+    "name": "Sergei",
+    "recruitment": "Joins when spoken to in Kaku after exploring Toran Castle."
+  },
+  {
+    "name": "Antonio",
+    "recruitment": "He joins when Tir speaks to him at the Inn in Seika, after Marie has been recruited and mentions she needs help. You need to sleep or just choose \"don't stay\" a couple of times at your HQ until Marie triggers the dialog that she needs help, then go back see Antonio."
+  },
+  {
+    "name": "Rock",
+    "recruitment": "Rock joins when spoken to in Kouan in Lepant's mansion."
+  },
+  {
+    "name": "Juppo",
+    "recruitment": "Joins automatically, after talking to him in Lepant's mansion. Note: If you didn't recruited him while sneaking in Lepant's Mansion, he will automatically be available at the HQ after Lepant joined."
+  },
+  {
+    "name": "Meg",
+    "recruitment": "After recruiting Juppo, put him in the party to Kaku and talk to her, she will join."
+  },
+  {
+    "name": "Lepant",
+    "recruitment": "Joins automatically after saving Eileen."
+  },
+  { "name": "Eileen", "recruitment": "Joins with Lepant." },
+  { "name": "Giovanni", "recruitment": "Joins with Lepant." },
+  {
+    "name": "Krin",
+    "recruitment": "Joins automatically during the events in Kouan."
+  },
+  {
+    "name": "Pahn",
+    "recruitment": "Pahn joins when spoken to after the events in Kouan. At a later point in the game, Pahn must duel Teo McDohl. If Pahn is defeated in the duel, then he will be technically killed in the story. The player must keep his weapon properly sharpened and have Pahn higher than level 30 with good equipment in order to increase the possibility of winning the duel."
+  },
+  {
+    "name": "Gaspar",
+    "recruitment": "Joins if Tir wins 5000 potch off of him in Chinchirorin."
+  },
+  {
+    "name": "Varkas",
+    "recruitment": "Joins automatically with Sydonia in Toran Castle after the events in Kouan."
+  },
+  {
+    "name": "Sydonia",
+    "recruitment": "Joins automatically with Varkas in Toran Castle after events in Kouan."
+  },
+  {
+    "name": "Kirkis",
+    "recruitment": "Joins automatically after events in Pannu Yakuta."
+  },
+  {
+    "name": "Sheena",
+    "recruitment": "Joins when spoken to with Lepant in the party at the Inn in Seika."
+  },
+  {
+    "name": "Viki",
+    "recruitment": "She will appear in the Forest trail, in Great Forest Village, ask her to join."
+  },
+  {
+    "name": "Meese",
+    "recruitment": "Speak to him in the Village of the Dwarves after recruiting Maas and he will join."
+  },
+  {
+    "name": "Valeria",
+    "recruitment": "Joins automatically after the events in Pannu Yakuta."
+  },
+  {
+    "name": "Templeton",
+    "recruitment": "Joins when spoken to at the burned Village of the Elves."
+  },
+  {
+    "name": "Kuromimi",
+    "recruitment": "Joins automatically after the events at Pannu Yakuta."
+  },
+  {
+    "name": "Humphrey",
+    "recruitment": "Joins automatically after the original remaining members from the Liberation Army meet up at the new Headquarters."
+  },
+  {
+    "name": "Kwanda",
+    "recruitment": "After defeating Kwanda in a duel in Pannu Yakuta, choose the following choices: \"Something's wrong.\" and \"I want you to join us.\""
+  },
+  {
+    "name": "Sylvina",
+    "recruitment": "Joins automatically after events at Pannu Yakuta."
+  },
+  {
+    "name": "Stallion",
+    "recruitment": "Joins automatically after events at Pannu Yakuta."
+  },
+  {
+    "name": "Fu Su Lu",
+    "recruitment": "Joins if Tir agrees to pay his 10,000 bit food bill at the Inn in the Great Forest Kobold Village."
+  },
+  {
+    "name": "Gon",
+    "recruitment": "Bring Kuromimi to visit him in the Great Forest Kobold Village and speak to him to recruit him."
+  },
+  {
+    "name": "Rubi",
+    "recruitment": "Bring Kirkis to speak to Rubi at the Great Forest Kobold Village when Kirkis is Lv. 35 or higher and speak to Rubi to recruit him."
+  },
+  {
+    "name": "Apple",
+    "recruitment": "Speak to her in Seika and she'll join to find out Mathiu's reason for joining."
+  },
+  {
+    "name": "Flik",
+    "recruitment": "Joins automatically in Kaku when Viktor and Tir speak to him after events in Pannu Yakuta occur."
+  },
+  {
+    "name": "Chapman",
+    "recruitment": "Joins when talked to at the Antei Armor store."
+  },
+  {
+    "name": "Eikei",
+    "recruitment": "Speak to him in Teien when Tir is Lv. 40 or higher."
+  },
+  {
+    "name": "Hellion",
+    "recruitment": "Joins when spoken to at the Inn in Teien, as long as the castle is level 2 or higher."
+  },
+  {
+    "name": "Jabba",
+    "recruitment": "Fight Holly Fairies until one drops a Nameless Urn, then speak to Jabba in Rikon with the urn in your inventory to get Jabba to join."
+  },
+  {
+    "name": "Jeane",
+    "recruitment": "Speak to her in the Rune Shop at Antei. Allow her to join you. Your Castle must be at least Lv. 3."
+  },
+  {
+    "name": "Lotte",
+    "recruitment": "She is at the inn, inside of Rikon, speak to her. Eventually she will tell you, her cat is missing, if you find her cat, she will join. The cat is in Kaku, you may need the Holy Rune to help catch her. Run after the cat \"Mina\", and when next to her,press the action button."
+  },
+  {
+    "name": "Mina",
+    "recruitment": "Buy Toe Shoes and equip them to Tir, talk to Mina and she will dance with you, and join you."
+  },
+  {
+    "name": "Anji",
+    "recruitment": "After the castle is level 3 or higher, take Tai Ho and Yam Koo in a party to the Pirate's Hideout. Defeat the 3 pirates within 5 rounds to recruit them."
+  },
+  {
+    "name": "Kanak",
+    "recruitment": "Joins alongside Anji and Leonardo when defeated at their hideout. Take Tai Ho and Yam Koo to the Pirate's Hideout once the castle is Level 3 or higher."
+  },
+  {
+    "name": "Leonardo",
+    "recruitment": "After the castle reaches level 3, take Tai Ho and Yam Koo to the Pirate's Hideout, and upon defeating Anji, Leonardo, and Kanak, they will join."
+  },
+  {
+    "name": "Kamandol",
+    "recruitment": "Joins automatically alongside Gen during the events to pass the Dunan Rapids."
+  },
+  {
+    "name": "Gen",
+    "recruitment": "Gen will automatically join when spoken to in a house in Teien when Tir and party need a way to pass the Dunan Rapids."
+  },
+  {
+    "name": "Tesla",
+    "recruitment": "Joins automatically when spoken to in Antei after Mathiu assigns Tir to recruit him and Kimberley."
+  },
+  {
+    "name": "Kimberley",
+    "recruitment": "Joins when spoken to at her home in Antei, after Mathiu instructs Tir to recruit her and Tesla."
+  },
+  {
+    "name": "Esmeralda",
+    "recruitment": "Acquire an Opal from the enemies in Soniere Prison, and give one to Esmeralda, she will then join."
+  },
+  {
+    "name": "Liukan",
+    "recruitment": "Joins automatically when spoken to in Soniere Prison."
+  },
+  {
+    "name": "Milich",
+    "recruitment": "After defeating him, say that he is not at fault for killing Gremio and ask him to join.Note: Do not agree with Pahn, Cleo, and Viktor about avenging Gremio."
+  },
+  {
+    "name": "Ivanov",
+    "recruitment": "Speak with him at Scarleticia Castle after defeating Milich Oppenheimer."
+  },
+  {
+    "name": "Kasios",
+    "recruitment": "Speak to him in Scarleticia Castle with Milich Oppenheimer in your party."
+  },
+  {
+    "name": "Qlon",
+    "recruitment": "Qlon joins if you speak to him in Antei after liberating it from Milich Oppenheimer."
+  },
+  {
+    "name": "Kasumi",
+    "recruitment": "Joins automatically before the first battle with Teo McDohl's army."
+  },
+  {
+    "name": "Georges",
+    "recruitment": "Talk to him at the inn in Kirov and beat the record in any card game level he offers."
+  },
+  {
+    "name": "Lester",
+    "recruitment": "In Kirov, enter the houses to the left and right of Sarah and taste the stew on the stove. Then enter the house south of Sarah and talk to him. He will not appear unless Toran Castle is at least Level 3."
+  },
+  {
+    "name": "Sarah",
+    "recruitment": "Recruting Sarah requires a series of trades with the denizens of Kirov. When Sarah asks for soap, Tir can talk to various villagers to find out what they'll want to trade for. To complete the quest, buy Sugar at the item store. Trade it to the man at the Inn for a yardstick. Trade the yardstick to the villager near Sarah for Salt. Trade the Salt for Soy Sauce with the villager at the Item Shop. Then trade the Soy Sauce to the villager near the Armor Shop for some Soap. Speak to Sarah with soap in hand and she'll join."
+  },
+  {
+    "name": "Blackman",
+    "recruitment": "Speak to him at Kalekka without stepping on his plants.Note: If you step on his plants before speaking to him, simply exit the village and return."
+  },
+  { "name": "Ledon", "recruitment": "Speak to him at the Secret Factory." },
+  { "name": "Kessler", "recruitment": "Speak to him at the Secret Factory." },
+  {
+    "name": "Kage",
+    "recruitment": "Speak to him at the Secret Factory and pay his 20,000 bit service fee."
+  },
+  {
+    "name": "Melodye",
+    "recruitment": "Speak to her at Kirov with the Sound Rune in your inventory"
+  },
+  {
+    "name": "Kun To",
+    "recruitment": "Joins automatically after lending boats to carry the Fire Spears."
+  },
+  {
+    "name": "Mose",
+    "recruitment": "Joins automatically before delivering the Fire Spears."
+  },
+  {
+    "name": "Ronnie Bell",
+    "recruitment": "Joins automatically before delivering the Fire Spears."
+  },
+  {
+    "name": "Alen",
+    "recruitment": "Joins automatically with Grenseal after defeating General Teo."
+  },
+  {
+    "name": "Grenseal",
+    "recruitment": "Joins automatically with Alen after defeating General Teo."
+  },
+  {
+    "name": "Kirke",
+    "recruitment": "Joins when spoken to at the Lorimar checkpoint after the events there make the area available."
+  },
+  {
+    "name": "Marco",
+    "recruitment": "Play his game and win 5,000 Bits from him in the Warrior's Village."
+  },
+  {
+    "name": "Moose",
+    "recruitment": "Speak to him in the weapon shop at the Warrior's Village with Maas, Meese, and Mose in your active party."
+  },
+  {
+    "name": "Morgan",
+    "recruitment": "Speak to him at Qlon Temple if your Castle is at least Level 3 and allow him to join the army, otherwise he will say he needs more training."
+  },
+  {
+    "name": "Zen",
+    "recruitment": "Joins upon request at Qlon Temple if you bring him Blue, Red, and Yellow Flower Seeds."
+  },
+  {
+    "name": "Quincy",
+    "recruitment": "Speak to him at the Garan Fortress with at least 80 recruits (dead and \"away\" characters do not count)."
+  },
+  {
+    "name": "Fukien",
+    "recruitment": "Joins automatically after you enter Qlon Temple."
+  },
+  {
+    "name": "Hugo",
+    "recruitment": "Speak to him at the Qlon Temple with the War Scroll in your inventory. He will not accept it unless your Castle is at least Level 3."
+  },
+  {
+    "name": "Window",
+    "recruitment": "Bring him the Window crystal, that is found in the Cave of Past, in Qlon Temple."
+  },
+  {
+    "name": "Tengaar",
+    "recruitment": "Automatically joins after rescuing her from Neclord's Castle."
+  },
+  {
+    "name": "Hix",
+    "recruitment": "Joins automatically before entering Neclord's Castle."
+  },
+  {
+    "name": "Fuma",
+    "recruitment": "Speak to him at the Dragon Knights' Fortress and allow him to join the party. Note: He is at the upper-right of the first screen of the fortress, and he will not appear unless your Castle is at least Level 3."
+  },
+  {
+    "name": "Crowley",
+    "recruitment": "Prerequisites: Level 4 HeadquartersTo recruit Crowley, speak to him in a secret passage in the Cave of the Past. To get to the secret passage, once inside the cave take the north exit and head down the stairs. Head all the way to the right, and then south to a new screen. Start heading right and go south. Head up the stairs and you will be in the previous screen. Take the stairs down and head south to the next screen, and then head south once more. The hidden passage is against the southern wall."
+  },
+  {
+    "name": "Pesmerga",
+    "recruitment": "Prerequisites: Level 4 HeadquartersIn order to recruit Pesmerga, speak with him on the top floor of Neclord's Castle."
+  },
+  {
+    "name": "Clive",
+    "recruitment": "Joins when spoken to when he appears at the Inn in Rikon. He appears there at random starting after events in Lorimar."
+  },
+  {
+    "name": "Leon",
+    "recruitment": "Speak to him in the house at Kalekka after attaining a Level 4 HQ. He will mention how impressive the Liberation Army has become. Speak to Mathiu at HQ and receive a letter. Deliver the letter to Leon and he will join."
+  },
+  {
+    "name": "Kreutz",
+    "recruitment": "Speak to him at the Dragon's Den with Humphrey in the active party."
+  },
+  {
+    "name": "Joshua",
+    "recruitment": "Joins automatically after returning from Seek Valley."
+  },
+  {
+    "name": "Milia",
+    "recruitment": "Joins automatically before heading to Seek Valley."
+  },
+  {
+    "name": "Futch",
+    "recruitment": "Joins automatically after returning from Seek Valley."
+  },
+  {
+    "name": "Taggart",
+    "recruitment": "Joins automatically after informing him of Warren's capture."
+  },
+  {
+    "name": "Mace",
+    "recruitment": "Speak to him at Seek Valley with Maas, Meese, Moose and Mose in your active party. A Level 4 Headquarters is required before recruiting him."
+  },
+  {
+    "name": "Griffith",
+    "recruitment": "Is recruited automatically after defeating him at the Northern Checkpoint, regardless of the player's choice."
+  },
+  {
+    "name": "Warren",
+    "recruitment": "Joins automatically after the events at Moravia Castle."
+  },
+  {
+    "name": "Kasim",
+    "recruitment": "Joins automatically after the events at Moravia Castle."
+  },
+  {
+    "name": "Vincent",
+    "recruitment": "After rescuing Warren and Viktor, go back to Kasim's prison and talk to Vincent."
+  },
+  {
+    "name": "Maximillian",
+    "recruitment": "Joins upon request at the Northern Checkpoint after rescuing Warren and Viktor."
+  },
+  {
+    "name": "Sancho",
+    "recruitment": "Joins with Maximillian at the Northern Checkpoint after rescuing Warren and Viktor."
+  },
+  {
+    "name": "Sonya Schulen",
+    "recruitment": "After the mission at Shasarazade, speak to her in the dungeon at HQ. Request her assistance."
+  }
+]

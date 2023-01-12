@@ -2,52 +2,110 @@ const axios = require('axios')
 const cheerio = require('cheerio')
 const fs = require('fs')
 
-const getCharacterInfo = async () => {
+// const getCharacterInfo = async () => {
+//   try {
+//     const { data } = await axios.get(
+//       'https://suikoden.fandom.com/wiki/Recruitment_(Suikoden)'
+//     )
+//     const $ = cheerio.load(data)
+//     const characterInfo = []
+//     let recruitmentInfo = []
+
+//     $('tr > td:last-child').each((_idx, el) => {
+//       const recruitCharacter = $(el).text()
+//       recruitmentInfo.push({ recruitment: recruitCharacter })
+//     })
+
+//     $('td > b > a').each((_idx, el) => {
+//       const characterName = $(el).text()
+//       characterInfo.push({ name: characterName })
+//     })
+
+//     recruitmentInfo = recruitmentInfo.map((string) =>
+//       string.replace(/(\r\n|\n|\r)/gm, '')
+//     )
+//     //regex to remove line breaks: https://stackoverflow.com/questions/10805125/how-to-remove-all-line-breaks-from-a-string
+
+//     for (let i = 0; i < characterInfo.length; i++) {
+//       characterInfo[i] = { id: i, ...characterInfo[i], ...recruitmentInfo[i] }
+//     }
+
+//     return characterInfo
+
+//   } catch (error) {
+//     throw error
+//   }
+// }
+
+const getCharacterDesc = async () => {
   try {
     const { data } = await axios.get(
-      'https://suikoden.fandom.com/wiki/Recruitment_(Suikoden)'
+      'https://suikoden.fandom.com/wiki/Suikoden#Characters'
     )
     const $ = cheerio.load(data)
-    const characterInfo = []
-    let recruitmentInfo = []
+    let characterDesc = []
 
-    $('tr > td:last-child').each((_idx, el) => {
-      const recruitCharacter = $(el).text()
-      recruitmentInfo.push(recruitCharacter)
+    $('h3 + ol > li').each((_idx, el) => {
+      const description = $(el).text()
+      characterDesc.push(description)
     })
 
-    $('td > b > a').each((_idx, el) => {
-      const characterName = $(el).text()
-      characterInfo.push({ name: characterName })
-    })
+    characterDesc = characterDesc.map((el) => (el = el.split('-')[1]))
 
-    recruitmentInfo = recruitmentInfo.map((string) =>
-      string.replace(/(\r\n|\n|\r)/gm, '')
-    )
-    //regex to remove line breaks: https://stackoverflow.com/questions/10805125/how-to-remove-all-line-breaks-from-a-string
-
-    for (let i = 0; i < characterInfo.length; i++) {
-      characterInfo[i].recruitment = recruitmentInfo[i]
-    }
-
-    return characterInfo
+    console.log(characterDesc)
   } catch (error) {
     throw error
   }
 }
 
-getCharacterInfo().then((characterInfo) => {
-  fs.writeFile(
-    '/Users/ashleyvalentine/Documents/code/suikoden-api/characters.json',
-    JSON.stringify(characterInfo),
-    (err) => {
-      if (err) console.log(err)
-      else {
-        console.log('File written successfully\n')
-      }
-    }
-  )
-})
+getCharacterDesc()
+
+// const get108Stars = async () => {
+//   try {
+//     const { data } = await axios.get(
+//       'https://suikoden.fandom.com/wiki/108_Stars_of_Destiny'
+//     )
+//     const $ = cheerio.load(data)
+//     const starsOfDestiny = []
+//     const characterImageLinks = []
+
+//     $('tr:nth-child(2n+1) > td:nth-child(1) > a').each((_idx, el) => {
+//       const star = $(el).text()
+//       starsOfDestiny.push({ star: star })
+//     })
+
+//     $(
+//       'tr:nth-child(2n+1) > td:nth-child(2) > div > div:nth-child(2) > p > a:nth-child(1)'
+//     ).each((_idx, el) => {
+//       const link = $(el).attr('href')
+//       characterImageLinks.push({ image: link })
+//     })
+
+//     for (let i = 0; i < starsOfDestiny.length; i++) {
+//       starsOfDestiny[i] = { ...starsOfDestiny[i], ...characterImageLinks[i] }
+//     }
+
+//     return starsOfDestiny
+
+//   } catch (error) {
+//     throw error
+//   }
+// }
+
+// get108Stars()
+
+// getCharacterInfo().then((characterInfo) => {
+//   fs.writeFile(
+//     '/Users/ashleyvalentine/Documents/code/suikoden-api/characters.json',
+//     JSON.stringify(characterInfo),
+//     (err) => {
+//       if (err) console.log(err)
+//       else {
+//         console.log('File written successfully\n')
+//       }
+//     }
+//   )
+// })
 
 //original code from https://www.scrapingbee.com/blog/web-scraping-javascript/#outcomes
 // const axios = require('axios');
