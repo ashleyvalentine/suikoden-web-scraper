@@ -47,7 +47,7 @@ const getCharacterInfo = async () => {
     )
     //regex to remove line breaks: https://stackoverflow.com/questions/10805125/how-to-remove-all-line-breaks-from-a-string
 
-    const characterDesc = getCharacterDesc()
+    const characterDesc = await getCharacterDesc()
 
     for (let i = 0; i < characterInfo.length; i++) {
       characterInfo[i] = {
@@ -71,7 +71,7 @@ const get108Stars = async () => {
     )
     const $ = cheerio.load(data)
     const starsOfDestiny = []
-    const characterImageLinks = []
+    let characterImageLinks = []
 
     $('tr:nth-child(2n+1) > td:nth-child(1) > a').each((_idx, el) => {
       const star = $(el).text()
@@ -82,11 +82,18 @@ const get108Stars = async () => {
       'tr:nth-child(2n+1) > td:nth-child(2) > div > div:nth-child(2) > p > a:nth-child(1)'
     ).each((_idx, el) => {
       const link = $(el).attr('href')
-      characterImageLinks.push({ image: link })
+      characterImageLinks.push(link)
     })
 
+    characterImageLinks = characterImageLinks.map(
+      (el) => (el = el.split('revision/')[0])
+    )
+
     for (let i = 0; i < starsOfDestiny.length; i++) {
-      starsOfDestiny[i] = { ...starsOfDestiny[i], ...characterImageLinks[i] }
+      starsOfDestiny[i] = {
+        ...starsOfDestiny[i],
+        image: characterImageLinks[i]
+      }
     }
 
     return starsOfDestiny

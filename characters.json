@@ -1,1 +1,758 @@
-[{"id":0,"name":"Tir","recruitment":"Joins your party at the very beginning of the game."},{"id":1,"name":"Cleo","recruitment":"Automatically joins at the beginning of the game."},{"id":2,"name":"Gremio","recruitment":"Automatically joins at the beginning of the game."},{"id":3,"name":"Viktor","recruitment":"Automatically joins after leaving Gregminster."},{"id":4,"name":"Mathiu","recruitment":"Joins automatically after Tir agrees to become leader of the Liberation Army."},{"id":5,"name":"Camille","recruitment":"Joins automatically after talking to her in Kaku."},{"id":6,"name":"Tai Ho","recruitment":"Joins Tir in Kaku after beating him at Chinchirorin before going to explore Toran Castle."},{"id":7,"name":"Yam Koo","recruitment":"Joins along with Tai Ho."},{"id":8,"name":"Luc","recruitment":"Joins automatically at Toran Castle."},{"id":9,"name":"Chandler","recruitment":"Talk to him at Kwaba Fortress after you acquire your castle."},{"id":10,"name":"Kai","recruitment":"After having set the HQ, Joins when spoken to at the Garan Fortress."},{"id":11,"name":"Lorelai","recruitment":"After having set the HQ, Lorelai joins Tir in Kouan if he's over level 25 when he talks to her."},{"id":12,"name":"Maas","recruitment":"Joins when spoken to in the Great Forest Kobold Village."},{"id":13,"name":"Marie","recruitment":"Joins when spoken to at the inn in Seika after securing Toran Castle."},{"id":14,"name":"Onil","recruitment":"Joins when spoken to in Seika after exploring Toran Castle."},{"id":15,"name":"Sansuke","recruitment":"Joins when spoken to in Great Forest Village after exploring Toran Castle."},{"id":16,"name":"Sergei","recruitment":"Joins when spoken to in Kaku after exploring Toran Castle."},{"id":17,"name":"Antonio","recruitment":"He joins when Tir speaks to him at the Inn in Seika, after Marie has been recruited and mentions she needs help. You need to sleep or just choose \"don't stay\" a couple of times at your HQ until Marie triggers the dialog that she needs help, then go back see Antonio."},{"id":18,"name":"Rock","recruitment":"Rock joins when spoken to in Kouan in Lepant's mansion."},{"id":19,"name":"Juppo","recruitment":"Joins automatically, after talking to him in Lepant's mansion. Note: If you didn't recruited him while sneaking in Lepant's Mansion, he will automatically be available at the HQ after Lepant joined."},{"id":20,"name":"Meg","recruitment":"After recruiting Juppo, put him in the party to Kaku and talk to her, she will join."},{"id":21,"name":"Lepant","recruitment":"Joins automatically after saving Eileen."},{"id":22,"name":"Eileen","recruitment":"Joins with Lepant."},{"id":23,"name":"Giovanni","recruitment":"Joins with Lepant."},{"id":24,"name":"Krin","recruitment":"Joins automatically during the events in Kouan."},{"id":25,"name":"Pahn","recruitment":"Pahn joins when spoken to after the events in Kouan. At a later point in the game, Pahn must duel Teo McDohl. If Pahn is defeated in the duel, then he will be technically killed in the story. The player must keep his weapon properly sharpened and have Pahn higher than level 30 with good equipment in order to increase the possibility of winning the duel."},{"id":26,"name":"Gaspar","recruitment":"Joins if Tir wins 5000 potch off of him in Chinchirorin."},{"id":27,"name":"Varkas","recruitment":"Joins automatically with Sydonia in Toran Castle after the events in Kouan."},{"id":28,"name":"Sydonia","recruitment":"Joins automatically with Varkas in Toran Castle after events in Kouan."},{"id":29,"name":"Kirkis","recruitment":"Joins automatically after events in Pannu Yakuta."},{"id":30,"name":"Sheena","recruitment":"Joins when spoken to with Lepant in the party at the Inn in Seika."},{"id":31,"name":"Viki","recruitment":"She will appear in the Forest trail, in Great Forest Village, ask her to join."},{"id":32,"name":"Meese","recruitment":"Speak to him in the Village of the Dwarves after recruiting Maas and he will join."},{"id":33,"name":"Valeria","recruitment":"Joins automatically after the events in Pannu Yakuta."},{"id":34,"name":"Templeton","recruitment":"Joins when spoken to at the burned Village of the Elves."},{"id":35,"name":"Kuromimi","recruitment":"Joins automatically after the events at Pannu Yakuta."},{"id":36,"name":"Humphrey","recruitment":"Joins automatically after the original remaining members from the Liberation Army meet up at the new Headquarters."},{"id":37,"name":"Kwanda","recruitment":"After defeating Kwanda in a duel in Pannu Yakuta, choose the following choices: \"Something's wrong.\" and \"I want you to join us.\""},{"id":38,"name":"Sylvina","recruitment":"Joins automatically after events at Pannu Yakuta."},{"id":39,"name":"Stallion","recruitment":"Joins automatically after events at Pannu Yakuta."},{"id":40,"name":"Fu Su Lu","recruitment":"Joins if Tir agrees to pay his 10,000 bit food bill at the Inn in the Great Forest Kobold Village."},{"id":41,"name":"Gon","recruitment":"Bring Kuromimi to visit him in the Great Forest Kobold Village and speak to him to recruit him."},{"id":42,"name":"Rubi","recruitment":"Bring Kirkis to speak to Rubi at the Great Forest Kobold Village when Kirkis is Lv. 35 or higher and speak to Rubi to recruit him."},{"id":43,"name":"Apple","recruitment":"Speak to her in Seika and she'll join to find out Mathiu's reason for joining."},{"id":44,"name":"Flik","recruitment":"Joins automatically in Kaku when Viktor and Tir speak to him after events in Pannu Yakuta occur."},{"id":45,"name":"Chapman","recruitment":"Joins when talked to at the Antei Armor store."},{"id":46,"name":"Eikei","recruitment":"Speak to him in Teien when Tir is Lv. 40 or higher."},{"id":47,"name":"Hellion","recruitment":"Joins when spoken to at the Inn in Teien, as long as the castle is level 2 or higher."},{"id":48,"name":"Jabba","recruitment":"Fight Holly Fairies until one drops a Nameless Urn, then speak to Jabba in Rikon with the urn in your inventory to get Jabba to join."},{"id":49,"name":"Jeane","recruitment":"Speak to her in the Rune Shop at Antei. Allow her to join you. Your Castle must be at least Lv. 3."},{"id":50,"name":"Lotte","recruitment":"She is at the inn, inside of Rikon, speak to her. Eventually she will tell you, her cat is missing, if you find her cat, she will join. The cat is in Kaku, you may need the Holy Rune to help catch her. Run after the cat \"Mina\", and when next to her,press the action button."},{"id":51,"name":"Mina","recruitment":"Buy Toe Shoes and equip them to Tir, talk to Mina and she will dance with you, and join you."},{"id":52,"name":"Anji","recruitment":"After the castle is level 3 or higher, take Tai Ho and Yam Koo in a party to the Pirate's Hideout. Defeat the 3 pirates within 5 rounds to recruit them."},{"id":53,"name":"Kanak","recruitment":"Joins alongside Anji and Leonardo when defeated at their hideout. Take Tai Ho and Yam Koo to the Pirate's Hideout once the castle is Level 3 or higher."},{"id":54,"name":"Leonardo","recruitment":"After the castle reaches level 3, take Tai Ho and Yam Koo to the Pirate's Hideout, and upon defeating Anji, Leonardo, and Kanak, they will join."},{"id":55,"name":"Kamandol","recruitment":"Joins automatically alongside Gen during the events to pass the Dunan Rapids."},{"id":56,"name":"Gen","recruitment":"Gen will automatically join when spoken to in a house in Teien when Tir and party need a way to pass the Dunan Rapids."},{"id":57,"name":"Tesla","recruitment":"Joins automatically when spoken to in Antei after Mathiu assigns Tir to recruit him and Kimberley."},{"id":58,"name":"Kimberley","recruitment":"Joins when spoken to at her home in Antei, after Mathiu instructs Tir to recruit her and Tesla."},{"id":59,"name":"Esmeralda","recruitment":"Acquire an Opal from the enemies in Soniere Prison, and give one to Esmeralda, she will then join."},{"id":60,"name":"Liukan","recruitment":"Joins automatically when spoken to in Soniere Prison."},{"id":61,"name":"Milich","recruitment":"After defeating him, say that he is not at fault for killing Gremio and ask him to join.Note: Do not agree with Pahn, Cleo, and Viktor about avenging Gremio."},{"id":62,"name":"Ivanov","recruitment":"Speak with him at Scarleticia Castle after defeating Milich Oppenheimer."},{"id":63,"name":"Kasios","recruitment":"Speak to him in Scarleticia Castle with Milich Oppenheimer in your party."},{"id":64,"name":"Qlon","recruitment":"Qlon joins if you speak to him in Antei after liberating it from Milich Oppenheimer."},{"id":65,"name":"Kasumi","recruitment":"Joins automatically before the first battle with Teo McDohl's army."},{"id":66,"name":"Georges","recruitment":"Talk to him at the inn in Kirov and beat the record in any card game level he offers."},{"id":67,"name":"Lester","recruitment":"In Kirov, enter the houses to the left and right of Sarah and taste the stew on the stove. Then enter the house south of Sarah and talk to him. He will not appear unless Toran Castle is at least Level 3."},{"id":68,"name":"Sarah","recruitment":"Recruting Sarah requires a series of trades with the denizens of Kirov. When Sarah asks for soap, Tir can talk to various villagers to find out what they'll want to trade for. To complete the quest, buy Sugar at the item store. Trade it to the man at the Inn for a yardstick. Trade the yardstick to the villager near Sarah for Salt. Trade the Salt for Soy Sauce with the villager at the Item Shop. Then trade the Soy Sauce to the villager near the Armor Shop for some Soap. Speak to Sarah with soap in hand and she'll join."},{"id":69,"name":"Blackman","recruitment":"Speak to him at Kalekka without stepping on his plants.Note: If you step on his plants before speaking to him, simply exit the village and return."},{"id":70,"name":"Ledon","recruitment":"Speak to him at the Secret Factory."},{"id":71,"name":"Kessler","recruitment":"Speak to him at the Secret Factory."},{"id":72,"name":"Kage","recruitment":"Speak to him at the Secret Factory and pay his 20,000 bit service fee."},{"id":73,"name":"Melodye","recruitment":"Speak to her at Kirov with the Sound Rune in your inventory"},{"id":74,"name":"Kun To","recruitment":"Joins automatically after lending boats to carry the Fire Spears."},{"id":75,"name":"Mose","recruitment":"Joins automatically before delivering the Fire Spears."},{"id":76,"name":"Ronnie Bell","recruitment":"Joins automatically before delivering the Fire Spears."},{"id":77,"name":"Alen","recruitment":"Joins automatically with Grenseal after defeating General Teo."},{"id":78,"name":"Grenseal","recruitment":"Joins automatically with Alen after defeating General Teo."},{"id":79,"name":"Kirke","recruitment":"Joins when spoken to at the Lorimar checkpoint after the events there make the area available."},{"id":80,"name":"Marco","recruitment":"Play his game and win 5,000 Bits from him in the Warrior's Village."},{"id":81,"name":"Moose","recruitment":"Speak to him in the weapon shop at the Warrior's Village with Maas, Meese, and Mose in your active party."},{"id":82,"name":"Morgan","recruitment":"Speak to him at Qlon Temple if your Castle is at least Level 3 and allow him to join the army, otherwise he will say he needs more training."},{"id":83,"name":"Zen","recruitment":"Joins upon request at Qlon Temple if you bring him Blue, Red, and Yellow Flower Seeds."},{"id":84,"name":"Quincy","recruitment":"Speak to him at the Garan Fortress with at least 80 recruits (dead and \"away\" characters do not count)."},{"id":85,"name":"Fukien","recruitment":"Joins automatically after you enter Qlon Temple."},{"id":86,"name":"Hugo","recruitment":"Speak to him at the Qlon Temple with the War Scroll in your inventory. He will not accept it unless your Castle is at least Level 3."},{"id":87,"name":"Window","recruitment":"Bring him the Window crystal, that is found in the Cave of Past, in Qlon Temple."},{"id":88,"name":"Tengaar","recruitment":"Automatically joins after rescuing her from Neclord's Castle."},{"id":89,"name":"Hix","recruitment":"Joins automatically before entering Neclord's Castle."},{"id":90,"name":"Fuma","recruitment":"Speak to him at the Dragon Knights' Fortress and allow him to join the party. Note: He is at the upper-right of the first screen of the fortress, and he will not appear unless your Castle is at least Level 3."},{"id":91,"name":"Crowley","recruitment":"Prerequisites: Level 4 HeadquartersTo recruit Crowley, speak to him in a secret passage in the Cave of the Past. To get to the secret passage, once inside the cave take the north exit and head down the stairs. Head all the way to the right, and then south to a new screen. Start heading right and go south. Head up the stairs and you will be in the previous screen. Take the stairs down and head south to the next screen, and then head south once more. The hidden passage is against the southern wall."},{"id":92,"name":"Pesmerga","recruitment":"Prerequisites: Level 4 HeadquartersIn order to recruit Pesmerga, speak with him on the top floor of Neclord's Castle."},{"id":93,"name":"Clive","recruitment":"Joins when spoken to when he appears at the Inn in Rikon. He appears there at random starting after events in Lorimar."},{"id":94,"name":"Leon","recruitment":"Speak to him in the house at Kalekka after attaining a Level 4 HQ. He will mention how impressive the Liberation Army has become. Speak to Mathiu at HQ and receive a letter. Deliver the letter to Leon and he will join."},{"id":95,"name":"Kreutz","recruitment":"Speak to him at the Dragon's Den with Humphrey in the active party."},{"id":96,"name":"Joshua","recruitment":"Joins automatically after returning from Seek Valley."},{"id":97,"name":"Milia","recruitment":"Joins automatically before heading to Seek Valley."},{"id":98,"name":"Futch","recruitment":"Joins automatically after returning from Seek Valley."},{"id":99,"name":"Taggart","recruitment":"Joins automatically after informing him of Warren's capture."},{"id":100,"name":"Mace","recruitment":"Speak to him at Seek Valley with Maas, Meese, Moose and Mose in your active party. A Level 4 Headquarters is required before recruiting him."},{"id":101,"name":"Griffith","recruitment":"Is recruited automatically after defeating him at the Northern Checkpoint, regardless of the player's choice."},{"id":102,"name":"Warren","recruitment":"Joins automatically after the events at Moravia Castle."},{"id":103,"name":"Kasim","recruitment":"Joins automatically after the events at Moravia Castle."},{"id":104,"name":"Vincent","recruitment":"After rescuing Warren and Viktor, go back to Kasim's prison and talk to Vincent."},{"id":105,"name":"Maximillian","recruitment":"Joins upon request at the Northern Checkpoint after rescuing Warren and Viktor."},{"id":106,"name":"Sancho","recruitment":"Joins with Maximillian at the Northern Checkpoint after rescuing Warren and Viktor."},{"id":107,"name":"Sonya Schulen","recruitment":"After the mission at Shasarazade, speak to her in the dungeon at HQ. Request her assistance."}]
+[
+  {
+    "id": 0,
+    "name": "Tir",
+    "description": "Leader of the Liberation Army.",
+    "recruitment": "Joins your party at the very beginning of the game.",
+    "star": "Tenkai (Star Chief Star of Heaven)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/0/0a/SI_Tir_McDohl_Portrait.png/"
+  },
+  {
+    "id": 1,
+    "name": "Cleo",
+    "description": "One of Tir's family servants, acts as Tir's guard.",
+    "recruitment": "Automatically joins at the beginning of the game."
+  },
+  {
+    "id": 2,
+    "name": "Gremio",
+    "description": "Tir's servant and cook.",
+    "recruitment": "Automatically joins at the beginning of the game.",
+    "star": "Ten'ei (Heroic Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/5/5a/SI_Gremio_Portrait.png/"
+  },
+  {
+    "id": 3,
+    "name": "Viktor",
+    "description": "A mercenary who lends his services to the Liberation Army.",
+    "recruitment": "Automatically joins after leaving Gregminster.",
+    "star": "Tenko (Lone Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/6/69/SI_Viktor_Portrait.png/"
+  },
+  {
+    "id": 4,
+    "name": "Mathiu",
+    "description": "A doctor and former tactician trying to live a life as a teacher.",
+    "recruitment": "Joins automatically after Tir agrees to become leader of the Liberation Army.",
+    "star": "Tenki (Star of Wisdom)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/7/79/SI_Mathiu_Portrait.png/"
+  },
+  {
+    "id": 5,
+    "name": "Camille",
+    "description": "A debt collector seeking Gremio for an overdue dinner bill...",
+    "recruitment": "Joins automatically after talking to her in Kaku."
+  },
+  {
+    "id": 6,
+    "name": "Tai Ho",
+    "description": "A fisherman and a gambler.",
+    "recruitment": "Joins Tir in Kaku after beating him at Chinchirorin before going to explore Toran Castle."
+  },
+  {
+    "id": 7,
+    "name": "Yam Koo",
+    "description": "Tai Ho's brother, who laments his brother's carefree ways.",
+    "recruitment": "Joins along with Tai Ho."
+  },
+  {
+    "id": 8,
+    "name": "Luc",
+    "description": "Lady Leknaat's apprentice.",
+    "recruitment": "Joins automatically at Toran Castle."
+  },
+  {
+    "id": 9,
+    "name": "Chandler",
+    "description": "An entrepreneur seeking to start his own general store.",
+    "recruitment": "Talk to him at Kwaba Fortress after you acquire your castle."
+  },
+  {
+    "id": 10,
+    "name": "Kai",
+    "description": "Tir's weapon instructor.",
+    "recruitment": "After having set the HQ, Joins when spoken to at the Garan Fortress."
+  },
+  {
+    "id": 11,
+    "name": "Lorelai",
+    "description": "A young adventuress who likes to work with strong people.",
+    "recruitment": "After having set the HQ, Lorelai joins Tir in Kouan if he's over level 25 when he talks to her."
+  },
+  {
+    "id": 12,
+    "name": "Maas",
+    "description": "A young blacksmith still learning his trade.",
+    "recruitment": "Joins when spoken to in the Great Forest Kobold Village."
+  },
+  {
+    "id": 13,
+    "name": "Marie",
+    "description": "The Innkeeper in Gregminster.",
+    "recruitment": "Joins when spoken to at the inn in Seika after securing Toran Castle.",
+    "star": "Chiin (The Shadowy Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/b/ba/SI_Marie_Portrait.png/"
+  },
+  {
+    "id": 14,
+    "name": "Onil",
+    "description": "A village gossip, she always has the latest news.",
+    "recruitment": "Joins when spoken to in Seika after exploring Toran Castle.",
+    "star": "Chizen (The Finished Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/4/49/SI_Onil_Portrait.png/"
+  },
+  {
+    "id": 15,
+    "name": "Sansuke",
+    "description": "A carpenter who specializes in building baths.",
+    "recruitment": "Joins when spoken to in Great Forest Village after exploring Toran Castle."
+  },
+  {
+    "id": 16,
+    "name": "Sergei",
+    "description": "An inventor, who's newest creation is the elevator.",
+    "recruitment": "Joins when spoken to in Kaku after exploring Toran Castle.",
+    "star": "Chisou (The Walking Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/a/af/SI_Sergei_Portrait.png/"
+  },
+  {
+    "id": 17,
+    "name": "Antonio",
+    "description": "A chef who is an acquaintance of Marie.",
+    "recruitment": "He joins when Tir speaks to him at the Inn in Seika, after Marie has been recruited and mentions she needs help. You need to sleep or just choose \"don't stay\" a couple of times at your HQ until Marie triggers the dialog that she needs help, then go back see Antonio."
+  },
+  {
+    "id": 18,
+    "name": "Rock",
+    "description": "A vault guard who likes his job.",
+    "recruitment": "Rock joins when spoken to in Kouan in Lepant's mansion.",
+    "star": "Chison (The Wounded Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/c/c4/SI_Rock_Portrait.png/"
+  },
+  {
+    "id": 19,
+    "name": "Juppo",
+    "description": "A wandering trickster.",
+    "recruitment": "Joins automatically, after talking to him in Lepant's mansion. Note: If you didn't recruited him while sneaking in Lepant's Mansion, he will automatically be available at the HQ after Lepant joined."
+  },
+  {
+    "id": 20,
+    "name": "Meg",
+    "description": "Juppo's niece, who seeks to learn to be a trickster from her uncle.",
+    "recruitment": "After recruiting Juppo, put him in the party to Kaku and talk to her, she will join.",
+    "star": "Chikei (The Halted Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/b/b3/SI_Meg_Portrait.png/"
+  },
+  {
+    "id": 21,
+    "name": "Eileen",
+    "description": "Lepant's wife, who only desires to be at her husband's side.",
+    "recruitment": "Joins with Lepant."
+  },
+  {
+    "id": 22,
+    "name": "Giovanni",
+    "description": "Lepant's servant.",
+    "recruitment": "Joins with Lepant.",
+    "star": "Chiyou (The Magic Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/d/da/SI_Giovanni_Portrait.png/"
+  },
+  {
+    "id": 23,
+    "name": "Krin",
+    "description": "A thief who is inept at fooling people.",
+    "recruitment": "Joins automatically during the events in Kouan.",
+    "star": "Chizoku (The Thieving Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/4/4f/SI_Krin_Portrait.png/"
+  },
+  {
+    "id": 24,
+    "name": "Lepant",
+    "description": "An honorable village lord.",
+    "recruitment": "Joins automatically after saving Eileen."
+  },
+  {
+    "id": 25,
+    "name": "Pahn",
+    "description": "Tir's servant and bodyguard.",
+    "recruitment": "Pahn joins when spoken to after the events in Kouan. At a later point in the game, Pahn must duel Teo McDohl. If Pahn is defeated in the duel, then he will be technically killed in the story. The player must keep his weapon properly sharpened and have Pahn higher than level 30 with good equipment in order to increase the possibility of winning the duel.",
+    "star": "Tentai (Retreating Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/a/a2/SI_Pahn_Portrait.png/"
+  },
+  {
+    "id": 26,
+    "name": "Gaspar",
+    "description": "A gambler, Tai Ho is his best customer.",
+    "recruitment": "Joins if Tir wins 5000 potch off of him in Chinchirorin.",
+    "star": "Chishuu(The Ugly Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/c/c7/SI_Gaspar_Portrait.png/"
+  },
+  {
+    "id": 27,
+    "name": "Varkas",
+    "description": "The Mt. Seifu Bandits commander.",
+    "recruitment": "Joins automatically with Sydonia in Toran Castle after the events in Kouan."
+  },
+  {
+    "id": 28,
+    "name": "Sydonia",
+    "description": "The Mt. Seifu Bandits enigmatic co commander.",
+    "recruitment": "Joins automatically with Varkas in Toran Castle after events in Kouan.",
+    "star": "Tenkoku (Wailing Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/6/68/SI_Sydonia_Portrait.png/"
+  },
+  {
+    "id": 29,
+    "name": "Kirkis",
+    "description": "An elf seeking to save his people.",
+    "recruitment": "Joins automatically after events in Pannu Yakuta.",
+    "star": "Tenbi (Lowly Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/a/ae/SI_Kirkis_Portrait.png/"
+  },
+  {
+    "id": 30,
+    "name": "Sheena",
+    "description": "Lepant and Eileen's son, an aspiring womanizer.",
+    "recruitment": "Joins when spoken to with Lepant in the party at the Inn in Seika.",
+    "star": "Chimei(The Clear Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/f/f3/SI_Sheena_Portrait.png/"
+  },
+  {
+    "id": 31,
+    "name": "Viki",
+    "description": "A mysterious mage who asks for Tir's protection when her Blinking magic strands her in a forest.",
+    "recruitment": "She will appear in the Forest trail, in Great Forest Village, ask her to join."
+  },
+  {
+    "id": 32,
+    "name": "Meese",
+    "description": "A blacksmith Journeyman learning from the dwarves.",
+    "recruitment": "Speak to him in the Village of the Dwarves after recruiting Maas and he will join."
+  },
+  {
+    "id": 33,
+    "name": "Valeria",
+    "description": "A former soldier of the empire living in the great forest.",
+    "recruitment": "Joins automatically after the events in Pannu Yakuta."
+  },
+  {
+    "id": 34,
+    "name": "Templeton",
+    "description": "A young mapmaker who works hard to keep his maps accurate.",
+    "recruitment": "Joins when spoken to at the burned Village of the Elves."
+  },
+  {
+    "id": 35,
+    "name": "Kuromimi",
+    "description": "A Kobold seeking to free his people from a curse.",
+    "recruitment": "Joins automatically after the events at Pannu Yakuta."
+  },
+  {
+    "id": 36,
+    "name": "Humphrey",
+    "description": "A taciturn former soldier who works for the Liberation army.",
+    "recruitment": "Joins automatically after the original remaining members from the Liberation Army meet up at the new Headquarters.",
+    "star": "Ten'yuu (Star of Bravery)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/b/b3/SI_Humphrey_Portrait.png/"
+  },
+  {
+    "id": 37,
+    "name": "Kwanda",
+    "description": "One of the 5 great Imperial Generals.",
+    "recruitment": "After defeating Kwanda in a duel in Pannu Yakuta, choose the following choices: \"Something's wrong.\" and \"I want you to join us.\"",
+    "star": "Tenmou (Star of Swift Courage)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/6/62/SI_Kwanda_Portrait.png/"
+  },
+  {
+    "id": 38,
+    "name": "Stallion",
+    "description": "The fastest elf alive, his Godspeed rune has often been mistaken for a true rune.",
+    "recruitment": "Joins automatically after events at Pannu Yakuta."
+  },
+  {
+    "id": 39,
+    "name": "Sylvina",
+    "description": "Granddaughter of the Village of the Elves Chief.",
+    "recruitment": "Joins automatically after events at Pannu Yakuta.",
+    "star": "Chisatsu (The Searching Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/4/46/SI_Sylvina_Portrait.png/"
+  },
+  {
+    "id": 40,
+    "name": "Fu Su Lu",
+    "description": "A mighty warrior who has the strength of 10 men.",
+    "recruitment": "Joins if Tir agrees to pay his 10,000 bit food bill at the Inn in the Great Forest Kobold Village."
+  },
+  {
+    "id": 41,
+    "name": "Gon",
+    "description": "Kuromimi's brother.",
+    "recruitment": "Bring Kuromimi to visit him in the Great Forest Kobold Village and speak to him to recruit him.",
+    "star": "Chikaku (The Corner Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/a/ad/SI_Gon_Portrait.png/"
+  },
+  {
+    "id": 42,
+    "name": "Rubi",
+    "description": "An elf who can't bring himself to trust humans.",
+    "recruitment": "Bring Kirkis to speak to Rubi at the Great Forest Kobold Village when Kirkis is Lv. 35 or higher and speak to Rubi to recruit him.",
+    "star": "Chisoku (The Star of Haste)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/0/01/SI_Rubi_Portrait.png/"
+  },
+  {
+    "id": 43,
+    "name": "Apple",
+    "description": "Mathiu's student.",
+    "recruitment": "Speak to her in Seika and she'll join to find out Mathiu's reason for joining.",
+    "star": "Chifuku (The Hiding Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/c/c4/SI_Apple_Portrait.png/"
+  },
+  {
+    "id": 44,
+    "name": "Flik",
+    "description": "Co commander of the Liberation Army, known as Flik of the Blue Lightning.",
+    "recruitment": "Joins automatically in Kaku when Viktor and Tir speak to him after events in Pannu Yakuta occur.",
+    "star": "Ten'an (Dark Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/1/1f/SI_Flik_Portrait.png/"
+  },
+  {
+    "id": 45,
+    "name": "Chapman",
+    "description": "An armorer in Antei.",
+    "recruitment": "Joins when talked to at the Antei Armor store.",
+    "star": "Chiyou (The Helpful Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/1/15/SI_Chapman_Portrait.png/"
+  },
+  {
+    "id": 46,
+    "name": "Eikei",
+    "description": "A powerful martial artist.",
+    "recruitment": "Speak to him in Teien when Tir is Lv. 40 or higher.",
+    "star": "Chiyuu (The Heroic Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/8/85/SI_Eikei_Portrait.png/"
+  },
+  {
+    "id": 47,
+    "name": "Hellion",
+    "description": "An old woman in Teien who possesses the blinking mirror.",
+    "recruitment": "Joins when spoken to at the Inn in Teien, as long as the castle is level 2 or higher."
+  },
+  {
+    "id": 48,
+    "name": "Jabba",
+    "description": "An appraiser in Rikon.",
+    "recruitment": "Fight Holly Fairies until one drops a Nameless Urn, then speak to Jabba in Rikon with the urn in your inventory to get Jabba to join.",
+    "star": "Chisei (The Guileless Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/3/31/SI_Jabba_Portrait.png/"
+  },
+  {
+    "id": 49,
+    "name": "Jeane",
+    "description": "A mysterious runemistress.",
+    "recruitment": "Speak to her in the Rune Shop at Antei. Allow her to join you. Your Castle must be at least Lv. 3."
+  },
+  {
+    "id": 50,
+    "name": "Lotte",
+    "description": "A young woman who is looking for her cat.",
+    "recruitment": "She is at the inn, inside of Rikon, speak to her. Eventually she will tell you her cat is missing, if you find her cat, she will join. The cat is in Kaku, you may need the Holy Rune to help catch her. Run after the cat, and when next to her, press the action button. Return to Lotte.",
+    "star": "Chikuu (The Empty Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/0/09/SI_Lotte_Portrait.png/"
+  },
+  {
+    "id": 51,
+    "name": "Mina",
+    "description": "A dancer who likes a skilled dancing partner.",
+    "recruitment": "Buy Toe Shoes and equip them to Tir, talk to Mina and she will dance with you, and join you.",
+    "star": "Chiin (The Hidden Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/5/5a/SI_Mina_Portrait.png/"
+  },
+  {
+    "id": 52,
+    "name": "Anji",
+    "description": "The Toran Pirates leader.",
+    "recruitment": "After the castle is level 3 or higher, take Tai Ho and Yam Koo in a party to the Pirate's Hideout. Defeat the 3 pirates within 5 rounds to recruit them.",
+    "star": "Tenken (Dagger Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/2/2e/SI_Anji_Portrait.png/"
+  },
+  {
+    "id": 53,
+    "name": "Kanak",
+    "description": "One of the Toran Pirates.",
+    "recruitment": "Joins alongside Anji and Leonardo when defeated at their hideout. Take Tai Ho and Yam Koo to the Pirate's Hideout once the castle is Level 3 or higher.",
+    "star": "Tenzai (Star of Sin)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/8/83/SI_Kanak_Portrait.png/"
+  },
+  {
+    "id": 54,
+    "name": "Leonardo",
+    "description": "Another of the Toran Pirates. Loyal to Anji.",
+    "recruitment": "After the castle reaches level 3, take Tai Ho and Yam Koo to the Pirate's Hideout, and upon defeating Anji, Leonardo, and Kanak, they will join.",
+    "star": "Tenpai (The Vanquished Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/5/54/SI_Leonardo_Portrait.png/"
+  },
+  {
+    "id": 55,
+    "name": "Kamandol",
+    "description": "An inventor, who's engine can get a boat through the Dunan rapids.",
+    "recruitment": "Joins automatically alongside Gen during the events to pass the Dunan Rapids.",
+    "star": "Chiri (The Star of Justice)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/0/0c/SI_Kamandol_Portrait.png/"
+  },
+  {
+    "id": 56,
+    "name": "Gen",
+    "description": "A carpenter who is friend with Kamandol.",
+    "recruitment": "Gen will automatically join when spoken to in a house in Teien when Tir and party need a way to pass the Dunan Rapids."
+  },
+  {
+    "id": 57,
+    "name": "Tesla",
+    "description": "A scrivener whom Mathiu knows of old.",
+    "recruitment": "Joins automatically when spoken to in Antei after Mathiu assigns Tir to recruit him and Kimberley."
+  },
+  {
+    "id": 58,
+    "name": "Kimberley",
+    "description": "A woman with nefarious skills whom Mathiu knows.",
+    "recruitment": "Joins when spoken to at her home in Antei, after Mathiu instructs Tir to recruit her and Tesla."
+  },
+  {
+    "id": 59,
+    "name": "Esmeralda",
+    "description": "A narcissist who treasures Opals.",
+    "recruitment": "Acquire an Opal from the enemies in Soniere Prison, and give one to Esmeralda, she will then join.",
+    "star": "Chikai (The Star of Gathering)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/8/84/SI_Esmeralda_Portrait.png/"
+  },
+  {
+    "id": 60,
+    "name": "Liukan",
+    "description": "An elderly doctor.",
+    "recruitment": "Joins automatically when spoken to in Soniere Prison."
+  },
+  {
+    "id": 61,
+    "name": "Milich",
+    "description": "One of the 5 great Imperial Generals. A well known narcissist and lord of Scarleticia castle.",
+    "recruitment": "After defeating him, say that he is not at fault for killing Gremio and ask him to join.Note: Do not agree with Pahn, Cleo, and Viktor about avenging Gremio."
+  },
+  {
+    "id": 62,
+    "name": "Ivanov",
+    "description": "A painter in the employ of Milich.",
+    "recruitment": "Speak with him at Scarleticia Castle after defeating Milich Oppenheimer.",
+    "star": "Chiyuu (The Brave Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/d/d7/SI_Ivanov_Portrait.png/"
+  },
+  {
+    "id": 63,
+    "name": "Kasios",
+    "description": "A singer who is loyal to Milich.",
+    "recruitment": "Speak to him in Scarleticia Castle with Milich Oppenheimer in your party.",
+    "star": "Chiraku (The Star of Music)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/c/c2/SI_Kasios_Portrait.png/"
+  },
+  {
+    "id": 64,
+    "name": "Qlon",
+    "description": "The town crier of Antei.",
+    "recruitment": "Qlon joins if you speak to him in Antei after liberating it from Milich Oppenheimer.",
+    "star": "Chiken (The Mighty Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/9/97/SI_Qlon_Portrait.png/"
+  },
+  {
+    "id": 65,
+    "name": "Kasumi",
+    "description": "A ninja of Rokkaku village.",
+    "recruitment": "Joins automatically before the first battle with Teo McDohl's army.",
+    "star": "Chikyu (The Intelligent Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/8/83/SI_Kasumi_Portrait.png/"
+  },
+  {
+    "id": 66,
+    "name": "Georges",
+    "description": "An idler who challenges people to play Memory.",
+    "recruitment": "Talk to him at the inn in Kirov and beat the record in any card game level he offers."
+  },
+  {
+    "id": 67,
+    "name": "Lester",
+    "description": "A chef who makes very smooth stews.",
+    "recruitment": "In Kirov, enter the houses to the left and right of Sarah and taste the stew on the stove. Then enter the house south of Sarah and talk to him. He will not appear unless Toran Castle is at least Level 3.",
+    "star": "Chizou (The Hoarding Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/9/98/SI_Lester_Portrait.png/"
+  },
+  {
+    "id": 68,
+    "name": "Sarah",
+    "description": "A laundress who needs more soap.",
+    "recruitment": "Recruting Sarah requires a series of trades with the denizens of Kirov. When Sarah asks for soap, Tir can talk to various villagers to find out what they'll want to trade for. To complete the quest, buy Sugar at the item store. Trade it to the man at the Inn for a yardstick. Trade the yardstick to the villager near Sarah for Salt. Trade the Salt for Soy Sauce with the villager at the Item Shop. Then trade the Soy Sauce to the villager near the Armor Shop for some Soap. Speak to Sarah with soap in hand and she'll join.",
+    "star": "Chisou (The Strong Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/d/d3/SI_Sarah_Portrait.png/"
+  },
+  {
+    "id": 69,
+    "name": "Blackman",
+    "description": "A farmer who cares for his crops.",
+    "recruitment": "Speak to him at Kalekka without stepping on his plants.Note: If you step on his plants before speaking to him, simply exit the village and return.",
+    "star": "Chitou (The Folding Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/c/cf/SI_Blackman_Portrait.png/"
+  },
+  {
+    "id": 70,
+    "name": "Kage",
+    "description": "A ninja for hire, he comes at a high price.",
+    "recruitment": "Speak to him at the Secret Factory and pay his 20,000 bit service fee.",
+    "star": "Ten'i (Strange Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/7/77/SI_Kage_Portrait.png/"
+  },
+  {
+    "id": 71,
+    "name": "Kessler",
+    "description": "A thief on Mt Tigerwolf.",
+    "recruitment": "Speak to him at the Secret Factory."
+  },
+  {
+    "id": 72,
+    "name": "Ledon",
+    "description": "A thieving innkeeper on Mt Tigerwolf.",
+    "recruitment": "Speak to him at the Secret Factory."
+  },
+  {
+    "id": 73,
+    "name": "Melodye",
+    "description": "A user of the Sound Rune.",
+    "recruitment": "Speak to her at Kirov with the Sound Rune in your inventory"
+  },
+  {
+    "id": 74,
+    "name": "Kun To",
+    "description": "A Kirov Merchant known to Tai Ho.",
+    "recruitment": "Joins automatically after lending boats to carry the Fire Spears.",
+    "star": "Tenfu (Star of Wealth)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/a/a1/SI_Kun_To_Portrait.png/"
+  },
+  {
+    "id": 75,
+    "name": "Mose",
+    "description": "Blacksmith of the Secret Factory.",
+    "recruitment": "Joins automatically before delivering the Fire Spears."
+  },
+  {
+    "id": 76,
+    "name": "Ronnie Bell",
+    "description": "Mose's strong assistant, user of the Hate Rune.",
+    "recruitment": "Joins automatically before delivering the Fire Spears."
+  },
+  {
+    "id": 77,
+    "name": "Alen",
+    "description": "One of Teo's lieutenants.",
+    "recruitment": "Joins automatically with Grenseal after defeating General Teo.",
+    "star": "Chimou (The Ferocious Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/2/23/SI_Alen_Portrait.png/"
+  },
+  {
+    "id": 78,
+    "name": "Grenseal",
+    "description": "Another of Teo's lieutenants.",
+    "recruitment": "Joins automatically with Alen after defeating General Teo."
+  },
+  {
+    "id": 79,
+    "name": "Kirke",
+    "description": "A gravedigger and executioner. He only knows how to chop off heads.",
+    "recruitment": "Joins when spoken to at the Lorimar checkpoint after the events there make the area available."
+  },
+  {
+    "id": 80,
+    "name": "Marco",
+    "description": "An idler who invites people to play the cups game.",
+    "recruitment": "Play his game and win 5,000 Bits from him in the Warrior's Village.",
+    "star": "Chitai (The Retreating Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/9/94/SI_Marco_Portrait.png/"
+  },
+  {
+    "id": 81,
+    "name": "Moose",
+    "description": "An established blacksmith in the Warrior's village.",
+    "recruitment": "Speak to him in the weapon shop at the Warrior's Village with Maas, Meese, and Mose in your active party.",
+    "star": "Chikyou (The Star of Ambition)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/8/8f/SI_Moose_Portrait.png/"
+  },
+  {
+    "id": 82,
+    "name": "Zen",
+    "description": "A gardener working at Qlon temple.",
+    "recruitment": "Joins upon request at Qlon Temple if you bring him Blue, Red, and Yellow Flower Seeds."
+  },
+  {
+    "id": 83,
+    "name": "Morgan",
+    "description": "A blind martial artist meditating at Qlon temple.",
+    "recruitment": "Speak to him at Qlon Temple if your Castle is at least Level 3 and allow him to join the army, otherwise he will say he needs more training.",
+    "star": "Chian (The Strong Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/6/6f/SI_Morgan_Portrait.png/"
+  },
+  {
+    "id": 84,
+    "name": "Quincy",
+    "description": "An archer at Garan.",
+    "recruitment": "Speak to him at the Garan Fortress with at least 80 recruits (dead and \"away\" characters do not count)."
+  },
+  {
+    "id": 85,
+    "name": "Fukien",
+    "description": "A priest of Qlon temple.",
+    "recruitment": "Joins automatically after you enter Qlon Temple.",
+    "star": "Chiju(The Beast Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/6/64/SI_Fukien_Portrait.png/"
+  },
+  {
+    "id": 86,
+    "name": "Hugo",
+    "description": "A librarian of the scrolls at Qlon temple.",
+    "recruitment": "Speak to him at the Qlon Temple with the War Scroll in your inventory. He will not accept it unless your Castle is at least Level 3.",
+    "star": "Chisui (The Fulfilled Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/2/25/SI_Hugo_Portrait.png/"
+  },
+  {
+    "id": 87,
+    "name": "Window",
+    "description": "User of the Window Rune.",
+    "recruitment": "Bring him the Window crystal, that is found in the Cave of Past, in Qlon Temple."
+  },
+  {
+    "id": 88,
+    "name": "Hix",
+    "description": "A young warrior who has yet to name his sword.",
+    "recruitment": "Joins automatically before entering Neclord's Castle."
+  },
+  {
+    "id": 89,
+    "name": "Tengaar",
+    "description": "Daughter of the Chief of the Warriors village.",
+    "recruitment": "Automatically joins after rescuing her from Neclord's Castle.",
+    "star": "Tensui (Star of Intelligence)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/0/05/SI_Tengaar_Portrait2.png/"
+  },
+  {
+    "id": 90,
+    "name": "Fuma",
+    "description": "A ninja who specializes in hiding.",
+    "recruitment": "Speak to him at the Dragon Knights' Fortress and allow him to join the party. Note: He is at the upper-right of the first screen of the fortress, and he will not appear unless your Castle is at least Level 3."
+  },
+  {
+    "id": 91,
+    "name": "Crowley",
+    "description": "A powerful mage with 100 runes within him.",
+    "recruitment": "Prerequisites: Level 4 Headquarters. To recruit Crowley, speak to him in a secret passage in the Cave of the Past. To get to the secret passage, once inside the cave take the north exit and head down the stairs. Head all the way to the right, and then south to a new screen. Start heading right and go south. Head up the stairs and you will be in the previous screen. Take the stairs down and head south to the next screen, and then head south once more. The hidden passage is against the southern wall.",
+    "star": "Chizen (The Silent Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/4/49/SI_Crowley_Portrait.png/"
+  },
+  {
+    "id": 92,
+    "name": "Pesmerga",
+    "description": "A warrior who is chasing after another man.",
+    "recruitment": "Prerequisites: Level 4 Headquarters. In order to recruit Pesmerga, speak with him on the top floor of Neclord's Castle."
+  },
+  {
+    "id": 93,
+    "name": "Clive",
+    "description": "A mysterious man in the Rikon Inn.",
+    "recruitment": "Joins when spoken to when he appears at the Inn in Rikon. He appears there at random starting after events in Lorimar."
+  },
+  {
+    "id": 94,
+    "name": "Leon",
+    "description": "A master strategist living in Kalekka.",
+    "recruitment": "Speak to him in the house at Kalekka after attaining a Level 4 HQ. He will mention how impressive the Liberation Army has become. Speak to Mathiu at HQ and receive a letter. Deliver the letter to Leon and he will join.",
+    "star": "Chikai (Chief Star of Earth)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/0/03/SI_Leon_Portrait.png/"
+  },
+  {
+    "id": 95,
+    "name": "Kreutz",
+    "description": "A former soldier and acquaintance of Humphrey.",
+    "recruitment": "Speak to him at the Dragon's Den with Humphrey in the active party.",
+    "star": "Tenkuu(Empty Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/1/14/SI_Kreutz_Portrait.png/"
+  },
+  {
+    "id": 96,
+    "name": "Joshua",
+    "description": "Commander of the Dragon Knights and the Dragon Rune.",
+    "recruitment": "Joins automatically after returning from Seek Valley."
+  },
+  {
+    "id": 97,
+    "name": "Milia",
+    "description": "A Dragon Knight.",
+    "recruitment": "Joins automatically before heading to Seek Valley."
+  },
+  {
+    "id": 98,
+    "name": "Futch",
+    "description": "An apprentice Dragon Knight.",
+    "recruitment": "Joins automatically after returning from Seek Valley."
+  },
+  {
+    "id": 99,
+    "name": "Taggart",
+    "description": "A vassal of Warren.",
+    "recruitment": "Joins automatically after informing him of Warren's capture."
+  },
+  {
+    "id": 100,
+    "name": "Mace",
+    "description": "A master blacksmith.",
+    "recruitment": "Speak to him at Seek Valley with Maas, Meese, Moose and Mose in your active party. A Level 4 Headquarters is required before recruiting him."
+  },
+  {
+    "id": 101,
+    "name": "Griffith",
+    "description": "The Imperial commander of the Northern Checkpoint.",
+    "recruitment": "Is recruited automatically after defeating him at the Northern Checkpoint, regardless of the player's choice.",
+    "star": "Tenritsu (Star of the Standing Spear)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/c/cf/SI_Griffith_Portrait.png/"
+  },
+  {
+    "id": 102,
+    "name": "Warren",
+    "description": "A northern lord and friend of Viktor.",
+    "recruitment": "Joins automatically after the events at Moravia Castle."
+  },
+  {
+    "id": 103,
+    "name": "Kasim",
+    "description": "One of the 5 great Imperial Generals, Lord of Moravia Castle.",
+    "recruitment": "Joins automatically after the events at Moravia Castle."
+  },
+  {
+    "id": 104,
+    "name": "Vincent",
+    "description": "A narcissist and a liar.",
+    "recruitment": "After rescuing Warren and Viktor, go back to Kasim's prison and talk to Vincent."
+  },
+  {
+    "id": 105,
+    "name": "Maximillian",
+    "description": "Aging leader of the Knights of Maximillian.",
+    "recruitment": "Joins upon request at the Northern Checkpoint after rescuing Warren and Viktor."
+  },
+  {
+    "id": 106,
+    "name": "Sancho",
+    "description": "Maximillian's retainer.",
+    "recruitment": "Joins with Maximillian at the Northern Checkpoint after rescuing Warren and Viktor.",
+    "star": "Chiei (Star of Courage)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/e/e6/SI_Sancho_Portrait.png/"
+  },
+  {
+    "id": 107,
+    "name": "Sonya Schulen",
+    "description": "One of the 5 great Imperial Generals. Commander of Shasarazade.",
+    "recruitment": "After the mission at Shasarazade, speak to her in the dungeon at HQ. Request her assistance."
+  }
+]
