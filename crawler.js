@@ -2,67 +2,67 @@ const axios = require('axios')
 const cheerio = require('cheerio')
 const fs = require('fs')
 
-const getCharacterDesc = async () => {
-  try {
-    const { data } = await axios.get(
-      'https://suikoden.fandom.com/wiki/Suikoden#Characters'
-    )
-    const $ = cheerio.load(data)
-    let characterDesc = []
+// const getCharacterDesc = async () => {
+//   try {
+//     const { data } = await axios.get(
+//       'https://suikoden.fandom.com/wiki/Suikoden#Characters'
+//     )
+//     const $ = cheerio.load(data)
+//     let characterDesc = []
 
-    $('h3 + ol > li').each((_idx, el) => {
-      const description = $(el).text()
-      characterDesc.push(description)
-    })
+//     $('h3 + ol > li').each((_idx, el) => {
+//       const description = $(el).text()
+//       characterDesc.push(description)
+//     })
 
-    characterDesc = characterDesc.map((el) => (el = el.split('- ')[1]))
+//     characterDesc = characterDesc.map((el) => (el = el.split('- ')[1]))
 
-    return characterDesc
-  } catch (error) {
-    throw error
-  }
-}
+//     return characterDesc
+//   } catch (error) {
+//     throw error
+//   }
+// }
 
-const getCharacterInfo = async () => {
-  try {
-    const { data } = await axios.get(
-      'https://suikoden.fandom.com/wiki/Recruitment_(Suikoden)'
-    )
-    const $ = cheerio.load(data)
-    const characterInfo = []
-    let recruitmentInfo = []
+// const getCharacterInfo = async () => {
+//   try {
+//     const { data } = await axios.get(
+//       'https://suikoden.fandom.com/wiki/Recruitment_(Suikoden)'
+//     )
+//     const $ = cheerio.load(data)
+//     const characterInfo = []
+//     let recruitmentInfo = []
 
-    $('tr > td:last-child').each((_idx, el) => {
-      const recruitCharacter = $(el).text()
-      recruitmentInfo.push(recruitCharacter)
-    })
+//     $('tr > td:last-child').each((_idx, el) => {
+//       const recruitCharacter = $(el).text()
+//       recruitmentInfo.push(recruitCharacter)
+//     })
 
-    $('td > b > a').each((_idx, el) => {
-      const characterName = $(el).text()
-      characterInfo.push(characterName)
-    })
+//     $('td > b > a').each((_idx, el) => {
+//       const characterName = $(el).text()
+//       characterInfo.push(characterName)
+//     })
 
-    recruitmentInfo = recruitmentInfo.map((string) =>
-      string.replace(/(\r\n|\n|\r)/gm, '')
-    )
-    //regex to remove line breaks: https://stackoverflow.com/questions/10805125/how-to-remove-all-line-breaks-from-a-string
+//     recruitmentInfo = recruitmentInfo.map((string) =>
+//       string.replace(/(\r\n|\n|\r)/gm, '')
+//     )
+//     //regex to remove line breaks: https://stackoverflow.com/questions/10805125/how-to-remove-all-line-breaks-from-a-string
 
-    const characterDesc = await getCharacterDesc()
+//     const characterDesc = await getCharacterDesc()
 
-    for (let i = 0; i < characterInfo.length; i++) {
-      characterInfo[i] = {
-        id: i,
-        name: characterInfo[i],
-        description: characterDesc[i],
-        recruitment: recruitmentInfo[i]
-      }
-    }
+//     for (let i = 0; i < characterInfo.length; i++) {
+//       characterInfo[i] = {
+//         id: i,
+//         name: characterInfo[i],
+//         description: characterDesc[i],
+//         recruitment: recruitmentInfo[i]
+//       }
+//     }
 
-    return characterInfo
-  } catch (error) {
-    throw error
-  }
-}
+//     return characterInfo
+//   } catch (error) {
+//     throw error
+//   }
+// }
 
 const get108Stars = async () => {
   try {
@@ -73,13 +73,13 @@ const get108Stars = async () => {
     const starsOfDestiny = []
     let characterImageLinks = []
 
-    $('tr:nth-child(2n+1) > td:nth-child(1) > a').each((_idx, el) => {
+    $('tr:nth-child(even) > td:nth-child(1) > a').each((_idx, el) => {
       const star = $(el).text()
       starsOfDestiny.push({ star: star })
     })
 
     $(
-      'tr:nth-child(2n+1) > td:nth-child(2) > div > div:nth-child(2) > p > a:nth-child(1)'
+      'tr:nth-child(even) > td:nth-child(2) > div > div:nth-child(2) > p > a:nth-child(1)'
     ).each((_idx, el) => {
       const link = $(el).attr('href')
       characterImageLinks.push(link)
@@ -102,18 +102,18 @@ const get108Stars = async () => {
   }
 }
 
-getCharacterInfo().then((characterInfo) => {
-  fs.writeFile(
-    '/Users/ashleyvalentine/Documents/code/suikoden-api/characters.json',
-    JSON.stringify(characterInfo),
-    (err) => {
-      if (err) console.log(err)
-      else {
-        console.log('File written successfully\n')
-      }
-    }
-  )
-})
+// getCharacterInfo().then((characterInfo) => {
+//   fs.writeFile(
+//     '/Users/ashleyvalentine/Documents/code/suikoden-api/characters.json',
+//     JSON.stringify(characterInfo),
+//     (err) => {
+//       if (err) console.log(err)
+//       else {
+//         console.log('File written successfully\n')
+//       }
+//     }
+//   )
+// })
 
 get108Stars().then((starsOfDestiny) => {
   fs.writeFile(

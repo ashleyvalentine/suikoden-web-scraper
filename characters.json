@@ -11,7 +11,9 @@
     "id": 1,
     "name": "Cleo",
     "description": "One of Tir's family servants, acts as Tir's guard.",
-    "recruitment": "Automatically joins at the beginning of the game."
+    "recruitment": "Automatically joins at the beginning of the game.",
+    "star": "Tenman (Star of Abundance)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/e/e6/SI_Cleo_Portrait.png/"
   },
   {
     "id": 2,
@@ -41,49 +43,65 @@
     "id": 5,
     "name": "Camille",
     "description": "A debt collector seeking Gremio for an overdue dinner bill...",
-    "recruitment": "Joins automatically after talking to her in Kaku."
+    "recruitment": "Joins automatically after talking to her in Kaku.",
+    "star": "Ten'yuu (Guardian Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/6/6d/SI_Camille_Portrait.png/"
   },
   {
     "id": 6,
     "name": "Tai Ho",
     "description": "A fisherman and a gambler.",
-    "recruitment": "Joins Tir in Kaku after beating him at Chinchirorin before going to explore Toran Castle."
+    "recruitment": "Joins Tir in Kaku after beating him at Chinchirorin before going to explore Toran Castle.",
+    "star": "Tenhei (Leveled Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/7/74/SI_Tai_Ho_Portrait.png/"
   },
   {
     "id": 7,
     "name": "Yam Koo",
     "description": "Tai Ho's brother, who laments his brother's carefree ways.",
-    "recruitment": "Joins along with Tai Ho."
+    "recruitment": "Joins along with Tai Ho.",
+    "star": "Tenson (Broken Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/f/f0/SI_Yam_Koo_Portrait.png/"
   },
   {
     "id": 8,
     "name": "Luc",
     "description": "Lady Leknaat's apprentice.",
-    "recruitment": "Joins automatically at Toran Castle."
+    "recruitment": "Joins automatically at Toran Castle.",
+    "star": "Tenkan(Star of Idleness)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/2/2b/SI_Luc_Portrait.png/"
   },
   {
     "id": 9,
     "name": "Chandler",
     "description": "An entrepreneur seeking to start his own general store.",
-    "recruitment": "Talk to him at Kwaba Fortress after you acquire your castle."
+    "recruitment": "Talk to him at Kwaba Fortress after you acquire your castle.",
+    "star": "Chikou (The Dog Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/c/c0/SI_Chandler_Portrait.png/"
   },
   {
     "id": 10,
     "name": "Kai",
     "description": "Tir's weapon instructor.",
-    "recruitment": "After having set the HQ, Joins when spoken to at the Garan Fortress."
+    "recruitment": "After having set the HQ, Joins when spoken to at the Garan Fortress.",
+    "star": "Chihi (The Orphan Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/a/a4/SI_Kai_Portrait.png/"
   },
   {
     "id": 11,
     "name": "Lorelai",
     "description": "A young adventuress who likes to work with strong people.",
-    "recruitment": "After having set the HQ, Lorelai joins Tir in Kouan if he's over level 25 when he talks to her."
+    "recruitment": "After having set the HQ, Lorelai joins Tir in Kouan if he's over level 25 when he talks to her.",
+    "star": "Chikatsu (The Eminent Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/5/5a/SI_Lorelai_Portrait.png/"
   },
   {
     "id": 12,
     "name": "Maas",
     "description": "A young blacksmith still learning his trade.",
-    "recruitment": "Joins when spoken to in the Great Forest Kobold Village."
+    "recruitment": "Joins when spoken to in the Great Forest Kobold Village.",
+    "star": "Chibaku (The Barbarous Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/4/47/SI_Maas_Portrait.png/"
   },
   {
     "id": 13,
@@ -105,7 +123,9 @@
     "id": 15,
     "name": "Sansuke",
     "description": "A carpenter who specializes in building baths.",
-    "recruitment": "Joins when spoken to in Great Forest Village after exploring Toran Castle."
+    "recruitment": "Joins when spoken to in Great Forest Village after exploring Toran Castle.",
+    "star": "Chiretsu (The Inferior Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/7/78/SI_Sansuke_Portrait.png/"
   },
   {
     "id": 16,
@@ -119,7 +139,9 @@
     "id": 17,
     "name": "Antonio",
     "description": "A chef who is an acquaintance of Marie.",
-    "recruitment": "He joins when Tir speaks to him at the Inn in Seika, after Marie has been recruited and mentions she needs help. You need to sleep or just choose \"don't stay\" a couple of times at your HQ until Marie triggers the dialog that she needs help, then go back see Antonio."
+    "recruitment": "He joins when Tir speaks to him at the Inn in Seika, after Marie has been recruited and mentions she needs help. You need to sleep or just choose \"don't stay\" a couple of times at your HQ until Marie triggers the dialog that she needs help, then go back see Antonio.",
+    "star": "Chishuu (The Prisoned Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/d/d7/SI_Antonio_Portrait.png/"
   },
   {
     "id": 18,
@@ -133,7 +155,9 @@
     "id": 19,
     "name": "Juppo",
     "description": "A wandering trickster.",
-    "recruitment": "Joins automatically, after talking to him in Lepant's mansion. Note: If you didn't recruited him while sneaking in Lepant's Mansion, he will automatically be available at the HQ after Lepant joined."
+    "recruitment": "Joins automatically, after talking to him in Lepant's mansion. Note: If you didn't recruited him while sneaking in Lepant's Mansion, he will automatically be available at the HQ after Lepant joined.",
+    "star": "Chisyun (The Elegant Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/9/96/SI_Juppo_Portrait.png/"
   },
   {
     "id": 20,
@@ -147,7 +171,9 @@
     "id": 21,
     "name": "Eileen",
     "description": "Lepant's wife, who only desires to be at her husband's side.",
-    "recruitment": "Joins with Lepant."
+    "recruitment": "Joins with Lepant.",
+    "star": "Tenkou (Clever Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/2/21/SI_Eileen_Portrait.png/"
   },
   {
     "id": 22,
@@ -169,7 +195,9 @@
     "id": 24,
     "name": "Lepant",
     "description": "An honorable village lord.",
-    "recruitment": "Joins automatically after saving Eileen."
+    "recruitment": "Joins automatically after saving Eileen.",
+    "star": "Tengou (Star of Conflagration)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/1/13/SI_Lepant_Portrait2.png/"
   },
   {
     "id": 25,
@@ -191,7 +219,9 @@
     "id": 27,
     "name": "Varkas",
     "description": "The Mt. Seifu Bandits commander.",
-    "recruitment": "Joins automatically with Sydonia in Toran Castle after the events in Kouan."
+    "recruitment": "Joins automatically with Sydonia in Toran Castle after the events in Kouan.",
+    "star": "Tenbou (Savage Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/4/47/SI_Varkas_Portrait.png/"
   },
   {
     "id": 28,
@@ -221,31 +251,41 @@
     "id": 31,
     "name": "Viki",
     "description": "A mysterious mage who asks for Tir's protection when her Blinking magic strands her in a forest.",
-    "recruitment": "She will appear in the Forest trail, in Great Forest Village, ask her to join."
+    "recruitment": "She will appear in the Forest trail, in Great Forest Village, ask her to join.",
+    "star": "Chitatsu (The Quick Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/e/e6/SI_Viki_Portrait.png/"
   },
   {
     "id": 32,
     "name": "Meese",
     "description": "A blacksmith Journeyman learning from the dwarves.",
-    "recruitment": "Speak to him in the Village of the Dwarves after recruiting Maas and he will join."
+    "recruitment": "Speak to him in the Village of the Dwarves after recruiting Maas and he will join.",
+    "star": "Chihi (The Flying Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/9/93/SI_Meese_Portrait.png/"
   },
   {
     "id": 33,
     "name": "Valeria",
     "description": "A former soldier of the empire living in the great forest.",
-    "recruitment": "Joins automatically after the events in Pannu Yakuta."
+    "recruitment": "Joins automatically after the events in Pannu Yakuta.",
+    "star": "Tenshou (Wounded Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/d/d5/SI_Valeria_Portrait.png/"
   },
   {
     "id": 34,
     "name": "Templeton",
     "description": "A young mapmaker who works hard to keep his maps accurate.",
-    "recruitment": "Joins when spoken to at the burned Village of the Elves."
+    "recruitment": "Joins when spoken to at the burned Village of the Elves.",
+    "star": "Chimou (The Rat Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/8/81/SI_Templeton_Portrait.png/"
   },
   {
     "id": 35,
     "name": "Kuromimi",
     "description": "A Kobold seeking to free his people from a curse.",
-    "recruitment": "Joins automatically after the events at Pannu Yakuta."
+    "recruitment": "Joins automatically after the events at Pannu Yakuta.",
+    "star": "Chitan (The Short Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/c/c7/SI_Kuromimi_Portrait.png/"
   },
   {
     "id": 36,
@@ -267,7 +307,9 @@
     "id": 38,
     "name": "Stallion",
     "description": "The fastest elf alive, his Godspeed rune has often been mistaken for a true rune.",
-    "recruitment": "Joins automatically after events at Pannu Yakuta."
+    "recruitment": "Joins automatically after events at Pannu Yakuta.",
+    "star": "Tensoku (Speedy Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/6/67/SI_Stallion_Portrait.png/"
   },
   {
     "id": 39,
@@ -281,7 +323,9 @@
     "id": 40,
     "name": "Fu Su Lu",
     "description": "A mighty warrior who has the strength of 10 men.",
-    "recruitment": "Joins if Tir agrees to pay his 10,000 bit food bill at the Inn in the Great Forest Kobold Village."
+    "recruitment": "Joins if Tir agrees to pay his 10,000 bit food bill at the Inn in the Great Forest Kobold Village.",
+    "star": "Tensatsu (Murderous Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/3/35/SI_Fu_Su_Lu_Portrait.png/"
   },
   {
     "id": 41,
@@ -335,7 +379,9 @@
     "id": 47,
     "name": "Hellion",
     "description": "An old woman in Teien who possesses the blinking mirror.",
-    "recruitment": "Joins when spoken to at the Inn in Teien, as long as the castle is level 2 or higher."
+    "recruitment": "Joins when spoken to at the Inn in Teien, as long as the castle is level 2 or higher.",
+    "star": "Chishuu (The Complete Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/4/41/SI_Hellion_Portrait.png/"
   },
   {
     "id": 48,
@@ -349,7 +395,9 @@
     "id": 49,
     "name": "Jeane",
     "description": "A mysterious runemistress.",
-    "recruitment": "Speak to her in the Rune Shop at Antei. Allow her to join you. Your Castle must be at least Lv. 3."
+    "recruitment": "Speak to her in the Rune Shop at Antei. Allow her to join you. Your Castle must be at least Lv. 3.",
+    "star": "Chiketsu (Star of Noble Wisdom)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/f/f1/SI_Jeane_Portrait2.png/"
   },
   {
     "id": 50,
@@ -403,19 +451,25 @@
     "id": 56,
     "name": "Gen",
     "description": "A carpenter who is friend with Kamandol.",
-    "recruitment": "Gen will automatically join when spoken to in a house in Teien when Tir and party need a way to pass the Dunan Rapids."
+    "recruitment": "Gen will automatically join when spoken to in a house in Teien when Tir and party need a way to pass the Dunan Rapids.",
+    "star": "Chiman (The Full Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/d/dc/SI_Gen_Portrait.png/"
   },
   {
     "id": 57,
     "name": "Tesla",
     "description": "A scrivener whom Mathiu knows of old.",
-    "recruitment": "Joins automatically when spoken to in Antei after Mathiu assigns Tir to recruit him and Kimberley."
+    "recruitment": "Joins automatically when spoken to in Antei after Mathiu assigns Tir to recruit him and Kimberley.",
+    "star": "Chibun (The Learned Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/8/88/SI_Tesla_Portrait.png/"
   },
   {
     "id": 58,
     "name": "Kimberley",
     "description": "A woman with nefarious skills whom Mathiu knows.",
-    "recruitment": "Joins when spoken to at her home in Antei, after Mathiu instructs Tir to recruit her and Tesla."
+    "recruitment": "Joins when spoken to at her home in Antei, after Mathiu instructs Tir to recruit her and Tesla.",
+    "star": "Chikou Star (The Cunning Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/8/89/SI_Kimberley_Portrait.png/"
   },
   {
     "id": 59,
@@ -429,13 +483,17 @@
     "id": 60,
     "name": "Liukan",
     "description": "An elderly doctor.",
-    "recruitment": "Joins automatically when spoken to in Soniere Prison."
+    "recruitment": "Joins automatically when spoken to in Soniere Prison.",
+    "star": "Chirei (The Clever Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/f/f9/SI_Liukan_Portrait.png/"
   },
   {
     "id": 61,
     "name": "Milich",
     "description": "One of the 5 great Imperial Generals. A well known narcissist and lord of Scarleticia castle.",
-    "recruitment": "After defeating him, say that he is not at fault for killing Gremio and ask him to join.Note: Do not agree with Pahn, Cleo, and Viktor about avenging Gremio."
+    "recruitment": "After defeating him, say that he is not at fault for killing Gremio and ask him to join.Note: Do not agree with Pahn, Cleo, and Viktor about avenging Gremio.",
+    "star": "Tenkyuu (Lewd Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/4/4c/SI_Milich_Portrait.png/"
   },
   {
     "id": 62,
@@ -473,7 +531,9 @@
     "id": 66,
     "name": "Georges",
     "description": "An idler who challenges people to play Memory.",
-    "recruitment": "Talk to him at the inn in Kirov and beat the record in any card game level he offers."
+    "recruitment": "Talk to him at the inn in Kirov and beat the record in any card game level he offers.",
+    "star": "Chisatsu (Violent Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/f/f1/SI_Georges_Portrait.png/"
   },
   {
     "id": 67,
@@ -511,19 +571,25 @@
     "id": 71,
     "name": "Kessler",
     "description": "A thief on Mt Tigerwolf.",
-    "recruitment": "Speak to him at the Secret Factory."
+    "recruitment": "Speak to him at the Secret Factory.",
+    "star": "Chisin (The Forward Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/6/60/SI_Kessler_Portrait.png/"
   },
   {
     "id": 72,
     "name": "Ledon",
     "description": "A thieving innkeeper on Mt Tigerwolf.",
-    "recruitment": "Speak to him at the Secret Factory."
+    "recruitment": "Speak to him at the Secret Factory.",
+    "star": "Chido (The Serving Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/5/54/SI_Ledon_Portrait.png/"
   },
   {
     "id": 73,
     "name": "Melodye",
     "description": "A user of the Sound Rune.",
-    "recruitment": "Speak to her at Kirov with the Sound Rune in your inventory"
+    "recruitment": "Speak to her at Kirov with the Sound Rune in your inventory",
+    "star": "Chisa (The Aiding Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/9/97/SI_Melodye_Portrait.png/"
   },
   {
     "id": 74,
@@ -537,13 +603,17 @@
     "id": 75,
     "name": "Mose",
     "description": "Blacksmith of the Secret Factory.",
-    "recruitment": "Joins automatically before delivering the Fire Spears."
+    "recruitment": "Joins automatically before delivering the Fire Spears.",
+    "star": "Chiziku (The Axis Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/8/8c/SI_Mose_Portrait.png/"
   },
   {
     "id": 76,
     "name": "Ronnie Bell",
     "description": "Mose's strong assistant, user of the Hate Rune.",
-    "recruitment": "Joins automatically before delivering the Fire Spears."
+    "recruitment": "Joins automatically before delivering the Fire Spears.",
+    "star": "Chiaku (The Fierce Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/c/c6/SI_Ronnie_Portrait.png/"
   },
   {
     "id": 77,
@@ -557,13 +627,17 @@
     "id": 78,
     "name": "Grenseal",
     "description": "Another of Teo's lieutenants.",
-    "recruitment": "Joins automatically with Alen after defeating General Teo."
+    "recruitment": "Joins automatically with Alen after defeating General Teo.",
+    "star": "Chiki (The Strange Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/1/16/SI_Grenseal_Portrait.png/"
   },
   {
     "id": 79,
     "name": "Kirke",
     "description": "A gravedigger and executioner. He only knows how to chop off heads.",
-    "recruitment": "Joins when spoken to at the Lorimar checkpoint after the events there make the area available."
+    "recruitment": "Joins when spoken to at the Lorimar checkpoint after the events there make the area available.",
+    "star": "Chihei (The Smooth Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/5/57/SI_Kirke_Portrait.png/"
   },
   {
     "id": 80,
@@ -585,7 +659,9 @@
     "id": 82,
     "name": "Zen",
     "description": "A gardener working at Qlon temple.",
-    "recruitment": "Joins upon request at Qlon Temple if you bring him Blue, Red, and Yellow Flower Seeds."
+    "recruitment": "Joins upon request at Qlon Temple if you bring him Blue, Red, and Yellow Flower Seeds.",
+    "star": "Chikei (The Avenging Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/d/dc/SI_Zen_Portrait.png/"
   },
   {
     "id": 83,
@@ -599,7 +675,9 @@
     "id": 84,
     "name": "Quincy",
     "description": "An archer at Garan.",
-    "recruitment": "Speak to him at the Garan Fortress with at least 80 recruits (dead and \"away\" characters do not count)."
+    "recruitment": "Speak to him at the Garan Fortress with at least 80 recruits (dead and \"away\" characters do not count).",
+    "star": "Chiyuu (The Obscure Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/8/8c/SI_Quincy_Portrait.png/"
   },
   {
     "id": 85,
@@ -621,13 +699,17 @@
     "id": 87,
     "name": "Window",
     "description": "User of the Window Rune.",
-    "recruitment": "Bring him the Window crystal, that is found in the Cave of Past, in Qlon Temple."
+    "recruitment": "Bring him the Window crystal, that is found in the Cave of Past, in Qlon Temple.",
+    "star": "Chisu (The Mathematic Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/f/fb/SI_Window_Portrait.png/"
   },
   {
     "id": 88,
     "name": "Hix",
     "description": "A young warrior who has yet to name his sword.",
-    "recruitment": "Joins automatically before entering Neclord's Castle."
+    "recruitment": "Joins automatically before entering Neclord's Castle.",
+    "star": "Tenrou (The Goal Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/3/35/SI_Hix_Portrait.png/"
   },
   {
     "id": 89,
@@ -641,7 +723,9 @@
     "id": 90,
     "name": "Fuma",
     "description": "A ninja who specializes in hiding.",
-    "recruitment": "Speak to him at the Dragon Knights' Fortress and allow him to join the party. Note: He is at the upper-right of the first screen of the fortress, and he will not appear unless your Castle is at least Level 3."
+    "recruitment": "Speak to him at the Dragon Knights' Fortress and allow him to join the party. Note: He is at the upper-right of the first screen of the fortress, and he will not appear unless your Castle is at least Level 3.",
+    "star": "Chikou (The Wild Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/5/5b/SI_Fuma_Portrait.png/"
   },
   {
     "id": 91,
@@ -655,13 +739,17 @@
     "id": 92,
     "name": "Pesmerga",
     "description": "A warrior who is chasing after another man.",
-    "recruitment": "Prerequisites: Level 4 Headquarters. In order to recruit Pesmerga, speak with him on the top floor of Neclord's Castle."
+    "recruitment": "Prerequisites: Level 4 Headquarters. In order to recruit Pesmerga, speak with him on the top floor of Neclord's Castle.",
+    "star": "Ten'i (Star of Majesty)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/d/de/SI_Pesmerga_Portrait.png/"
   },
   {
     "id": 93,
     "name": "Clive",
     "description": "A mysterious man in the Rikon Inn.",
-    "recruitment": "Joins when spoken to when he appears at the Inn in Rikon. He appears there at random starting after events in Lorimar."
+    "recruitment": "Joins when spoken to when he appears at the Inn in Rikon. He appears there at random starting after events in Lorimar.",
+    "star": "Tenshou (The Swift Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/5/5a/SI_Clive_Portrait2.png/"
   },
   {
     "id": 94,
@@ -683,31 +771,41 @@
     "id": 96,
     "name": "Joshua",
     "description": "Commander of the Dragon Knights and the Dragon Rune.",
-    "recruitment": "Joins automatically after returning from Seek Valley."
+    "recruitment": "Joins automatically after returning from Seek Valley.",
+    "star": "Chikyou (The Strong Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/c/cd/SI_Joshua_Portrait.png/"
   },
   {
     "id": 97,
     "name": "Milia",
     "description": "A Dragon Knight.",
-    "recruitment": "Joins automatically before heading to Seek Valley."
+    "recruitment": "Joins automatically before heading to Seek Valley.",
+    "star": "Chii (The Peculiar Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/b/bf/SI_Milia_Portrait.png/"
   },
   {
     "id": 98,
     "name": "Futch",
     "description": "An apprentice Dragon Knight.",
-    "recruitment": "Joins automatically after returning from Seek Valley."
+    "recruitment": "Joins automatically after returning from Seek Valley.",
+    "star": "Chibi (The Least Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/2/28/SI_Futch_Portrait.png/"
   },
   {
     "id": 99,
     "name": "Taggart",
     "description": "A vassal of Warren.",
-    "recruitment": "Joins automatically after informing him of Warren's capture."
+    "recruitment": "Joins automatically after informing him of Warren's capture.",
+    "star": "Chima (The Devil Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/5/50/SI_Taggart_Portrait.png/"
   },
   {
     "id": 100,
     "name": "Mace",
     "description": "A master blacksmith.",
-    "recruitment": "Speak to him at Seek Valley with Maas, Meese, Moose and Mose in your active party. A Level 4 Headquarters is required before recruiting him."
+    "recruitment": "Speak to him at Seek Valley with Maas, Meese, Moose and Mose in your active party. A Level 4 Headquarters is required before recruiting him.",
+    "star": "Chiko (The Lonely Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/b/bf/SI_Mace_Portrait.png/"
   },
   {
     "id": 101,
@@ -721,25 +819,33 @@
     "id": 102,
     "name": "Warren",
     "description": "A northern lord and friend of Viktor.",
-    "recruitment": "Joins automatically after the events at Moravia Castle."
+    "recruitment": "Joins automatically after the events at Moravia Castle.",
+    "star": "Ten'ei (Lofty Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/0/04/SI_Warren_Portrait.png/"
   },
   {
     "id": 103,
     "name": "Kasim",
     "description": "One of the 5 great Imperial Generals, Lord of Moravia Castle.",
-    "recruitment": "Joins automatically after the events at Moravia Castle."
+    "recruitment": "Joins automatically after the events at Moravia Castle.",
+    "star": "Ten'yuu(Star of Heroic Ferocity)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/9/93/Kasim02.png/"
   },
   {
     "id": 104,
     "name": "Vincent",
     "description": "A narcissist and a liar.",
-    "recruitment": "After rescuing Warren and Viktor, go back to Kasim's prison and talk to Vincent."
+    "recruitment": "After rescuing Warren and Viktor, go back to Kasim's prison and talk to Vincent.",
+    "star": "Chichin (The Supressing Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/c/ce/SI_Vincent_Portrait.png/"
   },
   {
     "id": 105,
     "name": "Maximillian",
     "description": "Aging leader of the Knights of Maximillian.",
-    "recruitment": "Joins upon request at the Northern Checkpoint after rescuing Warren and Viktor."
+    "recruitment": "Joins upon request at the Northern Checkpoint after rescuing Warren and Viktor.",
+    "star": "Chii (The Majestic Star)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/3/3e/SI_Maximillian_Portrait.png/"
   },
   {
     "id": 106,
@@ -753,6 +859,8 @@
     "id": 107,
     "name": "Sonya Schulen",
     "description": "One of the 5 great Imperial Generals. Commander of Shasarazade.",
-    "recruitment": "After the mission at Shasarazade, speak to her in the dungeon at HQ. Request her assistance."
+    "recruitment": "After the mission at Shasarazade, speak to her in the dungeon at HQ. Request her assistance.",
+    "star": "Tenju (Star of Longevity)",
+    "image": "https://static.wikia.nocookie.net/suikoden/images/8/80/SI_Sonya_Portrait.png/"
   }
 ]
